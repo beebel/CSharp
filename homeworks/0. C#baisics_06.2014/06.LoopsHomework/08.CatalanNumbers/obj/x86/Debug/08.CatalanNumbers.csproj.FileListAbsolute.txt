@@ -1,0 +1,5 @@
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\08.CatalanNumbers\bin\Debug\08.CatalanNumbers.exe
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\08.CatalanNumbers\bin\Debug\08.CatalanNumbers.pdb
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\08.CatalanNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\08.CatalanNumbers\obj\x86\Debug\08.CatalanNumbers.exe
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\08.CatalanNumbers\obj\x86\Debug\08.CatalanNumbers.pdb

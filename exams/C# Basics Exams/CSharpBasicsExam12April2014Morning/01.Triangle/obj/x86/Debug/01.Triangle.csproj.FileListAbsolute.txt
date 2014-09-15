@@ -1,0 +1,5 @@
+C:\SoftUni\C# Basics Exams\CSharpBasicsExam12April2014Morning\01.Triangle\bin\Debug\01.Triangle.exe
+C:\SoftUni\C# Basics Exams\CSharpBasicsExam12April2014Morning\01.Triangle\bin\Debug\01.Triangle.pdb
+C:\SoftUni\C# Basics Exams\CSharpBasicsExam12April2014Morning\01.Triangle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\C# Basics Exams\CSharpBasicsExam12April2014Morning\01.Triangle\obj\x86\Debug\01.Triangle.exe
+C:\SoftUni\C# Basics Exams\CSharpBasicsExam12April2014Morning\01.Triangle\obj\x86\Debug\01.Triangle.pdb

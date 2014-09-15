@@ -1,0 +1,5 @@
+C:\SoftUni\C# Basics Exams\CShaprBasicsExam12April2014Evening\05.BitRoller\bin\Debug\05.BitRoller.exe
+C:\SoftUni\C# Basics Exams\CShaprBasicsExam12April2014Evening\05.BitRoller\bin\Debug\05.BitRoller.pdb
+C:\SoftUni\C# Basics Exams\CShaprBasicsExam12April2014Evening\05.BitRoller\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\C# Basics Exams\CShaprBasicsExam12April2014Evening\05.BitRoller\obj\x86\Debug\05.BitRoller.exe
+C:\SoftUni\C# Basics Exams\CShaprBasicsExam12April2014Evening\05.BitRoller\obj\x86\Debug\05.BitRoller.pdb

@@ -1,0 +1,5 @@
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\9. PrintASequence\bin\Debug\_9.PrintASequence.exe
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\9. PrintASequence\bin\Debug\_9.PrintASequence.pdb
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\9. PrintASequence\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\9. PrintASequence\obj\x86\Debug\_9.PrintASequence.exe
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\9. PrintASequence\obj\x86\Debug\_9.PrintASequence.pdb

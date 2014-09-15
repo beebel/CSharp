@@ -1,0 +1,12 @@
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\16. PrintLongSequence\bin\Debug\_16.PrintLongSequence.exe
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\16. PrintLongSequence\bin\Debug\_16.PrintLongSequence.pdb
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\16. PrintLongSequence\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\16. PrintLongSequence\obj\x86\Debug\_16.PrintLongSequence.exe
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\16. PrintLongSequence\obj\x86\Debug\_16.PrintLongSequence.pdb
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\1. Intro-Programming-Homework\16. PrintLongSequence\obj\x86\Debug\_16.PrintLongSequence.exe
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\1. Intro-Programming-Homework\16. PrintLongSequence\obj\x86\Debug\_16.PrintLongSequence.pdb
+C:\SoftUni\0. C# baisics_03.2014\01. Въведение в програмирането\01. Intro-Programming-Homework\16. PrintLongSequence\bin\Debug\_16.PrintLongSequence.exe
+C:\SoftUni\0. C# baisics_03.2014\01. Въведение в програмирането\01. Intro-Programming-Homework\16. PrintLongSequence\bin\Debug\_16.PrintLongSequence.pdb
+C:\SoftUni\0. C# baisics_03.2014\01. Въведение в програмирането\01. Intro-Programming-Homework\16. PrintLongSequence\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C# baisics_03.2014\01. Въведение в програмирането\01. Intro-Programming-Homework\16. PrintLongSequence\obj\x86\Debug\_16.PrintLongSequence.exe
+C:\SoftUni\0. C# baisics_03.2014\01. Въведение в програмирането\01. Intro-Programming-Homework\16. PrintLongSequence\obj\x86\Debug\_16.PrintLongSequence.pdb

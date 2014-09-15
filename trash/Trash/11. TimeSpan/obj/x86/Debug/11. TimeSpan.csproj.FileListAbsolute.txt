@@ -1,0 +1,5 @@
+C:\SoftUni\Trash\Trash\11. TimeSpan\bin\Debug\_11.TimeSpan.exe
+C:\SoftUni\Trash\Trash\11. TimeSpan\bin\Debug\_11.TimeSpan.pdb
+C:\SoftUni\Trash\Trash\11. TimeSpan\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\Trash\Trash\11. TimeSpan\obj\x86\Debug\_11.TimeSpan.exe
+C:\SoftUni\Trash\Trash\11. TimeSpan\obj\x86\Debug\_11.TimeSpan.pdb

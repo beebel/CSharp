@@ -1,0 +1,5 @@
+C:\SoftUni\0. C# baisics_03.2014\02. Примитини типове данни и променливи\02. Primitive-Data-Types-and-Variables-Homework\11. EmployeeData\bin\Debug\_11.EmployeeData.exe
+C:\SoftUni\0. C# baisics_03.2014\02. Примитини типове данни и променливи\02. Primitive-Data-Types-and-Variables-Homework\11. EmployeeData\bin\Debug\_11.EmployeeData.pdb
+C:\SoftUni\0. C# baisics_03.2014\02. Примитини типове данни и променливи\02. Primitive-Data-Types-and-Variables-Homework\11. EmployeeData\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C# baisics_03.2014\02. Примитини типове данни и променливи\02. Primitive-Data-Types-and-Variables-Homework\11. EmployeeData\obj\x86\Debug\_11.EmployeeData.exe
+C:\SoftUni\0. C# baisics_03.2014\02. Примитини типове данни и променливи\02. Primitive-Data-Types-and-Variables-Homework\11. EmployeeData\obj\x86\Debug\_11.EmployeeData.pdb

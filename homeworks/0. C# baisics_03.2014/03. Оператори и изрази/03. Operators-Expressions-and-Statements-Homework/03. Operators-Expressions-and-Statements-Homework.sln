@@ -1,0 +1,110 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. OddОrEvenIntegers", "01. OddОrEvenIntegers\01. OddОrEvenIntegers.csproj", "{6DDAB5D7-2EB5-415A-9A19-B1A1026AAC51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. GravitationOnTheMoon", "02. GravitationOnTheMoon\02. GravitationOnTheMoon.csproj", "{264A1B54-A6D0-4E90-BCEE-287FBD3449C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. DivideBy7And5", "03. DivideBy7And5\03. DivideBy7And5.csproj", "{62231A69-B490-4628-9212-60FE7DA1BFE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Rectangles", "04. Rectangles\04. Rectangles.csproj", "{5EE5C124-325B-4576-8C03-62BA256BFBF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. IsThirdDigit7", "05. IsThirdDigit7\05. IsThirdDigit7.csproj", "{A233B307-4E01-4D8B-8551-FE4E443E3DD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. FourDigitNumber", "06. FourDigitNumber\06. FourDigitNumber.csproj", "{04A77300-2806-47C5-8D5C-0D380EDBB3F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. PointInACircle", "07. PointInACircle\07. PointInACircle.csproj", "{63E34637-D6AE-43F3-9F10-F6D8F774CF54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. PrimeNumberCheck", "08. PrimeNumberCheck\08. PrimeNumberCheck.csproj", "{3911DDBC-26C6-4655-9513-4CBA768A1A7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Trapezoids", "09. Trapezoids\09. Trapezoids.csproj", "{413BAD4E-D752-406D-B1D1-0AB2E20F3672}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. PointInsideAndOutsideOfFigures", "10. PointInsideAndOutsideOfFigures\10. PointInsideAndOutsideOfFigures.csproj", "{8A4F6DF4-B0FB-4F28-BDC0-CF9660F5B68B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. ExtractBit3", "11. ExtractBit3\11. ExtractBit3.csproj", "{A2313086-A24E-4697-8C18-5FFE5F0DACA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. ExtractBitFromInteger", "12. ExtractBitFromInteger\12. ExtractBitFromInteger.csproj", "{D398A95C-8317-464A-8F2B-EF619E928157}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. CheckABitAtGivenPosition", "13. CheckABitAtGivenPosition\13. CheckABitAtGivenPosition.csproj", "{707FEB07-E702-413C-9285-5D5C73CE5048}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. ModifyABitAtGivenPosition", "14. ModifyABitAtGivenPosition\14. ModifyABitAtGivenPosition.csproj", "{13460073-E070-4B2C-8B38-B4725E73370D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15. BitsExchange", "15. BitsExchange\15. BitsExchange.csproj", "{A1326952-2EAA-4D13-920D-64580A207229}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16. BitExchange(Advanced)", "16. BitExchange(Advanced)\16. BitExchange(Advanced).csproj", "{3A979F45-C925-42FC-8481-5D2F9DC08003}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DDAB5D7-2EB5-415A-9A19-B1A1026AAC51}.Debug|x86.ActiveCfg = Debug|x86
+		{6DDAB5D7-2EB5-415A-9A19-B1A1026AAC51}.Debug|x86.Build.0 = Debug|x86
+		{6DDAB5D7-2EB5-415A-9A19-B1A1026AAC51}.Release|x86.ActiveCfg = Release|x86
+		{6DDAB5D7-2EB5-415A-9A19-B1A1026AAC51}.Release|x86.Build.0 = Release|x86
+		{264A1B54-A6D0-4E90-BCEE-287FBD3449C7}.Debug|x86.ActiveCfg = Debug|x86
+		{264A1B54-A6D0-4E90-BCEE-287FBD3449C7}.Debug|x86.Build.0 = Debug|x86
+		{264A1B54-A6D0-4E90-BCEE-287FBD3449C7}.Release|x86.ActiveCfg = Release|x86
+		{264A1B54-A6D0-4E90-BCEE-287FBD3449C7}.Release|x86.Build.0 = Release|x86
+		{62231A69-B490-4628-9212-60FE7DA1BFE1}.Debug|x86.ActiveCfg = Debug|x86
+		{62231A69-B490-4628-9212-60FE7DA1BFE1}.Debug|x86.Build.0 = Debug|x86
+		{62231A69-B490-4628-9212-60FE7DA1BFE1}.Release|x86.ActiveCfg = Release|x86
+		{62231A69-B490-4628-9212-60FE7DA1BFE1}.Release|x86.Build.0 = Release|x86
+		{5EE5C124-325B-4576-8C03-62BA256BFBF5}.Debug|x86.ActiveCfg = Debug|x86
+		{5EE5C124-325B-4576-8C03-62BA256BFBF5}.Debug|x86.Build.0 = Debug|x86
+		{5EE5C124-325B-4576-8C03-62BA256BFBF5}.Release|x86.ActiveCfg = Release|x86
+		{5EE5C124-325B-4576-8C03-62BA256BFBF5}.Release|x86.Build.0 = Release|x86
+		{A233B307-4E01-4D8B-8551-FE4E443E3DD5}.Debug|x86.ActiveCfg = Debug|x86
+		{A233B307-4E01-4D8B-8551-FE4E443E3DD5}.Debug|x86.Build.0 = Debug|x86
+		{A233B307-4E01-4D8B-8551-FE4E443E3DD5}.Release|x86.ActiveCfg = Release|x86
+		{A233B307-4E01-4D8B-8551-FE4E443E3DD5}.Release|x86.Build.0 = Release|x86
+		{04A77300-2806-47C5-8D5C-0D380EDBB3F7}.Debug|x86.ActiveCfg = Debug|x86
+		{04A77300-2806-47C5-8D5C-0D380EDBB3F7}.Debug|x86.Build.0 = Debug|x86
+		{04A77300-2806-47C5-8D5C-0D380EDBB3F7}.Release|x86.ActiveCfg = Release|x86
+		{04A77300-2806-47C5-8D5C-0D380EDBB3F7}.Release|x86.Build.0 = Release|x86
+		{63E34637-D6AE-43F3-9F10-F6D8F774CF54}.Debug|x86.ActiveCfg = Debug|x86
+		{63E34637-D6AE-43F3-9F10-F6D8F774CF54}.Debug|x86.Build.0 = Debug|x86
+		{63E34637-D6AE-43F3-9F10-F6D8F774CF54}.Release|x86.ActiveCfg = Release|x86
+		{63E34637-D6AE-43F3-9F10-F6D8F774CF54}.Release|x86.Build.0 = Release|x86
+		{3911DDBC-26C6-4655-9513-4CBA768A1A7E}.Debug|x86.ActiveCfg = Debug|x86
+		{3911DDBC-26C6-4655-9513-4CBA768A1A7E}.Debug|x86.Build.0 = Debug|x86
+		{3911DDBC-26C6-4655-9513-4CBA768A1A7E}.Release|x86.ActiveCfg = Release|x86
+		{3911DDBC-26C6-4655-9513-4CBA768A1A7E}.Release|x86.Build.0 = Release|x86
+		{413BAD4E-D752-406D-B1D1-0AB2E20F3672}.Debug|x86.ActiveCfg = Debug|x86
+		{413BAD4E-D752-406D-B1D1-0AB2E20F3672}.Debug|x86.Build.0 = Debug|x86
+		{413BAD4E-D752-406D-B1D1-0AB2E20F3672}.Release|x86.ActiveCfg = Release|x86
+		{413BAD4E-D752-406D-B1D1-0AB2E20F3672}.Release|x86.Build.0 = Release|x86
+		{8A4F6DF4-B0FB-4F28-BDC0-CF9660F5B68B}.Debug|x86.ActiveCfg = Debug|x86
+		{8A4F6DF4-B0FB-4F28-BDC0-CF9660F5B68B}.Debug|x86.Build.0 = Debug|x86
+		{8A4F6DF4-B0FB-4F28-BDC0-CF9660F5B68B}.Release|x86.ActiveCfg = Release|x86
+		{8A4F6DF4-B0FB-4F28-BDC0-CF9660F5B68B}.Release|x86.Build.0 = Release|x86
+		{A2313086-A24E-4697-8C18-5FFE5F0DACA7}.Debug|x86.ActiveCfg = Debug|x86
+		{A2313086-A24E-4697-8C18-5FFE5F0DACA7}.Debug|x86.Build.0 = Debug|x86
+		{A2313086-A24E-4697-8C18-5FFE5F0DACA7}.Release|x86.ActiveCfg = Release|x86
+		{A2313086-A24E-4697-8C18-5FFE5F0DACA7}.Release|x86.Build.0 = Release|x86
+		{D398A95C-8317-464A-8F2B-EF619E928157}.Debug|x86.ActiveCfg = Debug|x86
+		{D398A95C-8317-464A-8F2B-EF619E928157}.Debug|x86.Build.0 = Debug|x86
+		{D398A95C-8317-464A-8F2B-EF619E928157}.Release|x86.ActiveCfg = Release|x86
+		{D398A95C-8317-464A-8F2B-EF619E928157}.Release|x86.Build.0 = Release|x86
+		{707FEB07-E702-413C-9285-5D5C73CE5048}.Debug|x86.ActiveCfg = Debug|x86
+		{707FEB07-E702-413C-9285-5D5C73CE5048}.Debug|x86.Build.0 = Debug|x86
+		{707FEB07-E702-413C-9285-5D5C73CE5048}.Release|x86.ActiveCfg = Release|x86
+		{707FEB07-E702-413C-9285-5D5C73CE5048}.Release|x86.Build.0 = Release|x86
+		{13460073-E070-4B2C-8B38-B4725E73370D}.Debug|x86.ActiveCfg = Debug|x86
+		{13460073-E070-4B2C-8B38-B4725E73370D}.Debug|x86.Build.0 = Debug|x86
+		{13460073-E070-4B2C-8B38-B4725E73370D}.Release|x86.ActiveCfg = Release|x86
+		{13460073-E070-4B2C-8B38-B4725E73370D}.Release|x86.Build.0 = Release|x86
+		{A1326952-2EAA-4D13-920D-64580A207229}.Debug|x86.ActiveCfg = Debug|x86
+		{A1326952-2EAA-4D13-920D-64580A207229}.Debug|x86.Build.0 = Debug|x86
+		{A1326952-2EAA-4D13-920D-64580A207229}.Release|x86.ActiveCfg = Release|x86
+		{A1326952-2EAA-4D13-920D-64580A207229}.Release|x86.Build.0 = Release|x86
+		{3A979F45-C925-42FC-8481-5D2F9DC08003}.Debug|x86.ActiveCfg = Debug|x86
+		{3A979F45-C925-42FC-8481-5D2F9DC08003}.Debug|x86.Build.0 = Debug|x86
+		{3A979F45-C925-42FC-8481-5D2F9DC08003}.Release|x86.ActiveCfg = Release|x86
+		{3A979F45-C925-42FC-8481-5D2F9DC08003}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

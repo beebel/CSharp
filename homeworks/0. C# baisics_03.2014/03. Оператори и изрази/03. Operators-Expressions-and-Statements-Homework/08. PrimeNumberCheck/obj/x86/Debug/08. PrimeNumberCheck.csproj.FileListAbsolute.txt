@@ -1,0 +1,5 @@
+C:\SoftUni\0. C# baisics_03.2014\03. Оператори и изрази\03. Operators-Expressions-and-Statements-Homework\08. PrimeNumberCheck\bin\Debug\_08.PrimeNumberCheck.exe
+C:\SoftUni\0. C# baisics_03.2014\03. Оператори и изрази\03. Operators-Expressions-and-Statements-Homework\08. PrimeNumberCheck\bin\Debug\_08.PrimeNumberCheck.pdb
+C:\SoftUni\0. C# baisics_03.2014\03. Оператори и изрази\03. Operators-Expressions-and-Statements-Homework\08. PrimeNumberCheck\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C# baisics_03.2014\03. Оператори и изрази\03. Operators-Expressions-and-Statements-Homework\08. PrimeNumberCheck\obj\x86\Debug\_08.PrimeNumberCheck.exe
+C:\SoftUni\0. C# baisics_03.2014\03. Оператори и изрази\03. Operators-Expressions-and-Statements-Homework\08. PrimeNumberCheck\obj\x86\Debug\_08.PrimeNumberCheck.pdb

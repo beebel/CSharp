@@ -1,0 +1,5 @@
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\03.MinMaxSumAndAverageOfNNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\03.MinMaxSumAndAverageOfNNumbers\bin\Debug\03.MinMaxSumAndAverageOfNNumbers.exe
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\03.MinMaxSumAndAverageOfNNumbers\bin\Debug\03.MinMaxSumAndAverageOfNNumbers.pdb
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\03.MinMaxSumAndAverageOfNNumbers\obj\x86\Debug\03.MinMaxSumAndAverageOfNNumbers.exe
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\03.MinMaxSumAndAverageOfNNumbers\obj\x86\Debug\03.MinMaxSumAndAverageOfNNumbers.pdb

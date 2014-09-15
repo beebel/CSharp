@@ -1,0 +1,5 @@
+C:\SoftUni\0. C# baisics_03.2014\02. Примитини типове данни и променливи\02. Primitive-Data-Types-and-Variables-Homework\02. FloatOrDouble\bin\Debug\_02.FloatOrDouble.exe
+C:\SoftUni\0. C# baisics_03.2014\02. Примитини типове данни и променливи\02. Primitive-Data-Types-and-Variables-Homework\02. FloatOrDouble\bin\Debug\_02.FloatOrDouble.pdb
+C:\SoftUni\0. C# baisics_03.2014\02. Примитини типове данни и променливи\02. Primitive-Data-Types-and-Variables-Homework\02. FloatOrDouble\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C# baisics_03.2014\02. Примитини типове данни и променливи\02. Primitive-Data-Types-and-Variables-Homework\02. FloatOrDouble\obj\x86\Debug\_02.FloatOrDouble.exe
+C:\SoftUni\0. C# baisics_03.2014\02. Примитини типове данни и променливи\02. Primitive-Data-Types-and-Variables-Homework\02. FloatOrDouble\obj\x86\Debug\_02.FloatOrDouble.pdb

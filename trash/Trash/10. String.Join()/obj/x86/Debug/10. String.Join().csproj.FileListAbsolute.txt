@@ -1,0 +1,5 @@
+C:\SoftUni\Trash\Trash\10. String.Join()\bin\Debug\_10.String.Join__.exe
+C:\SoftUni\Trash\Trash\10. String.Join()\bin\Debug\_10.String.Join__.pdb
+C:\SoftUni\Trash\Trash\10. String.Join()\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\Trash\Trash\10. String.Join()\obj\x86\Debug\_10.String.Join__.exe
+C:\SoftUni\Trash\Trash\10. String.Join()\obj\x86\Debug\_10.String.Join__.pdb

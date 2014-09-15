@@ -1,0 +1,5 @@
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\13.BinaryТоDecimalNumber\bin\Debug\13.BinaryТоDecimalNumber.exe
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\13.BinaryТоDecimalNumber\bin\Debug\13.BinaryТоDecimalNumber.pdb
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\13.BinaryТоDecimalNumber\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\13.BinaryТоDecimalNumber\obj\x86\Debug\13.BinaryТоDecimalNumber.exe
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\13.BinaryТоDecimalNumber\obj\x86\Debug\13.BinaryТоDecimalNumber.pdb

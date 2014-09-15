@@ -1,0 +1,5 @@
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\7. PrintsFirstAndLastName\bin\Debug\_7.PrintsFirstAndLastName.exe
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\7. PrintsFirstAndLastName\bin\Debug\_7.PrintsFirstAndLastName.pdb
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\7. PrintsFirstAndLastName\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\7. PrintsFirstAndLastName\obj\x86\Debug\_7.PrintsFirstAndLastName.exe
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\7. PrintsFirstAndLastName\obj\x86\Debug\_7.PrintsFirstAndLastName.pdb

@@ -1,0 +1,5 @@
+C:\SoftUni\Trash\Trash\19. StringLength\bin\Debug\_19.StringLength.exe
+C:\SoftUni\Trash\Trash\19. StringLength\bin\Debug\_19.StringLength.pdb
+C:\SoftUni\Trash\Trash\19. StringLength\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\Trash\Trash\19. StringLength\obj\x86\Debug\_19.StringLength.exe
+C:\SoftUni\Trash\Trash\19. StringLength\obj\x86\Debug\_19.StringLength.pdb

@@ -1,0 +1,5 @@
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\07. SumOf5Numbers\bin\Debug\_07.SumOf5Numbers.exe
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\07. SumOf5Numbers\bin\Debug\_07.SumOf5Numbers.pdb
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\07. SumOf5Numbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\07. SumOf5Numbers\obj\x86\Debug\_07.SumOf5Numbers.exe
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\07. SumOf5Numbers\obj\x86\Debug\_07.SumOf5Numbers.pdb

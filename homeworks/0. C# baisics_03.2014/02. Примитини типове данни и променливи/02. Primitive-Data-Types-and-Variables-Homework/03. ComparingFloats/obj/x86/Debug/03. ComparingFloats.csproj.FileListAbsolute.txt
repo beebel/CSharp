@@ -1,0 +1,5 @@
+C:\SoftUni\0. C# baisics_03.2014\02. Примитини типове данни и променливи\02. Primitive-Data-Types-and-Variables-Homework\03. ComparingFloats\bin\Debug\_03.ComparingFloats.exe
+C:\SoftUni\0. C# baisics_03.2014\02. Примитини типове данни и променливи\02. Primitive-Data-Types-and-Variables-Homework\03. ComparingFloats\bin\Debug\_03.ComparingFloats.pdb
+C:\SoftUni\0. C# baisics_03.2014\02. Примитини типове данни и променливи\02. Primitive-Data-Types-and-Variables-Homework\03. ComparingFloats\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C# baisics_03.2014\02. Примитини типове данни и променливи\02. Primitive-Data-Types-and-Variables-Homework\03. ComparingFloats\obj\x86\Debug\_03.ComparingFloats.exe
+C:\SoftUni\0. C# baisics_03.2014\02. Примитини типове данни и променливи\02. Primitive-Data-Types-and-Variables-Homework\03. ComparingFloats\obj\x86\Debug\_03.ComparingFloats.pdb

@@ -1,0 +1,5 @@
+C:\SoftUni\0. C# baisics_03.2014\03. Оператори и изрази\03. Operators-Expressions-and-Statements-Homework\04. Rectangles\bin\Debug\_04.Rectangles.exe
+C:\SoftUni\0. C# baisics_03.2014\03. Оператори и изрази\03. Operators-Expressions-and-Statements-Homework\04. Rectangles\bin\Debug\_04.Rectangles.pdb
+C:\SoftUni\0. C# baisics_03.2014\03. Оператори и изрази\03. Operators-Expressions-and-Statements-Homework\04. Rectangles\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C# baisics_03.2014\03. Оператори и изрази\03. Operators-Expressions-and-Statements-Homework\04. Rectangles\obj\x86\Debug\_04.Rectangles.exe
+C:\SoftUni\0. C# baisics_03.2014\03. Оператори и изрази\03. Operators-Expressions-and-Statements-Homework\04. Rectangles\obj\x86\Debug\_04.Rectangles.pdb

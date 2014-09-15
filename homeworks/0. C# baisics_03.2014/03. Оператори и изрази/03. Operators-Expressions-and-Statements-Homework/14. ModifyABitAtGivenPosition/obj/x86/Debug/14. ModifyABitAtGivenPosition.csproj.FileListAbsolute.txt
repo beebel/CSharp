@@ -1,0 +1,5 @@
+C:\SoftUni\0. C# baisics_03.2014\03. Оператори и изрази\03. Operators-Expressions-and-Statements-Homework\14. ModifyABitAtGivenPosition\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C# baisics_03.2014\03. Оператори и изрази\03. Operators-Expressions-and-Statements-Homework\14. ModifyABitAtGivenPosition\bin\Debug\_14.ModifyABitAtGivenPosition.exe
+C:\SoftUni\0. C# baisics_03.2014\03. Оператори и изрази\03. Operators-Expressions-and-Statements-Homework\14. ModifyABitAtGivenPosition\bin\Debug\_14.ModifyABitAtGivenPosition.pdb
+C:\SoftUni\0. C# baisics_03.2014\03. Оператори и изрази\03. Operators-Expressions-and-Statements-Homework\14. ModifyABitAtGivenPosition\obj\x86\Debug\_14.ModifyABitAtGivenPosition.exe
+C:\SoftUni\0. C# baisics_03.2014\03. Оператори и изрази\03. Operators-Expressions-and-Statements-Homework\14. ModifyABitAtGivenPosition\obj\x86\Debug\_14.ModifyABitAtGivenPosition.pdb

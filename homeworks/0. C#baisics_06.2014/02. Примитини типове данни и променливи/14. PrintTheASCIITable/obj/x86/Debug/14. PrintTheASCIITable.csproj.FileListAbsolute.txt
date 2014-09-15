@@ -1,0 +1,5 @@
+C:\SoftUni\0. C#baisics_06.2014\02. Примитини типове данни и променливи\14. PrintTheASCIITable\bin\Debug\_14.PrintTheASCIITable.exe
+C:\SoftUni\0. C#baisics_06.2014\02. Примитини типове данни и променливи\14. PrintTheASCIITable\bin\Debug\_14.PrintTheASCIITable.pdb
+C:\SoftUni\0. C#baisics_06.2014\02. Примитини типове данни и променливи\14. PrintTheASCIITable\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C#baisics_06.2014\02. Примитини типове данни и променливи\14. PrintTheASCIITable\obj\x86\Debug\_14.PrintTheASCIITable.exe
+C:\SoftUni\0. C#baisics_06.2014\02. Примитини типове данни и променливи\14. PrintTheASCIITable\obj\x86\Debug\_14.PrintTheASCIITable.pdb

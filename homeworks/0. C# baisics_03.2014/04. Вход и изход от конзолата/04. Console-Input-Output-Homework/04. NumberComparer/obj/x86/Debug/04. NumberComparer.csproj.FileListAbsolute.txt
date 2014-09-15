@@ -1,0 +1,5 @@
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\04. NumberComparer\bin\Debug\_04.NumberComparer.exe
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\04. NumberComparer\bin\Debug\_04.NumberComparer.pdb
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\04. NumberComparer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\04. NumberComparer\obj\x86\Debug\_04.NumberComparer.exe
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\04. NumberComparer\obj\x86\Debug\_04.NumberComparer.pdb

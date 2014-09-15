@@ -1,0 +1,5 @@
+C:\SoftUni\Trash\Trash\23.Arrays\bin\Debug\23.Arrays.exe
+C:\SoftUni\Trash\Trash\23.Arrays\bin\Debug\23.Arrays.pdb
+C:\SoftUni\Trash\Trash\23.Arrays\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\Trash\Trash\23.Arrays\obj\x86\Debug\23.Arrays.exe
+C:\SoftUni\Trash\Trash\23.Arrays\obj\x86\Debug\23.Arrays.pdb

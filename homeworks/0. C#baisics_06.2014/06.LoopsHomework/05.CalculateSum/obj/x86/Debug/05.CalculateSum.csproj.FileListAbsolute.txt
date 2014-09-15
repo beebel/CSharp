@@ -1,0 +1,5 @@
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\05.CalculateSum\bin\Debug\05.CalculateSum.exe
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\05.CalculateSum\bin\Debug\05.CalculateSum.pdb
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\05.CalculateSum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\05.CalculateSum\obj\x86\Debug\05.CalculateSum.exe
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\05.CalculateSum\obj\x86\Debug\05.CalculateSum.pdb

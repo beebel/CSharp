@@ -1,0 +1,5 @@
+C:\SoftUni\C# Basics Exams\CSharpSampleExamMay2014\03.SandGlass\bin\Debug\03.SandGlass.exe
+C:\SoftUni\C# Basics Exams\CSharpSampleExamMay2014\03.SandGlass\bin\Debug\03.SandGlass.pdb
+C:\SoftUni\C# Basics Exams\CSharpSampleExamMay2014\03.SandGlass\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\C# Basics Exams\CSharpSampleExamMay2014\03.SandGlass\obj\x86\Debug\03.SandGlass.exe
+C:\SoftUni\C# Basics Exams\CSharpSampleExamMay2014\03.SandGlass\obj\x86\Debug\03.SandGlass.pdb

@@ -1,0 +1,5 @@
+C:\SoftUni\C# Basics Exams\CShaprBasicsExam12April2014Evening\04.FiveSpecialLetters\bin\Debug\04.FiveSpecialLetters.exe
+C:\SoftUni\C# Basics Exams\CShaprBasicsExam12April2014Evening\04.FiveSpecialLetters\bin\Debug\04.FiveSpecialLetters.pdb
+C:\SoftUni\C# Basics Exams\CShaprBasicsExam12April2014Evening\04.FiveSpecialLetters\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\C# Basics Exams\CShaprBasicsExam12April2014Evening\04.FiveSpecialLetters\obj\x86\Debug\04.FiveSpecialLetters.exe
+C:\SoftUni\C# Basics Exams\CShaprBasicsExam12April2014Evening\04.FiveSpecialLetters\obj\x86\Debug\04.FiveSpecialLetters.pdb

@@ -1,0 +1,5 @@
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\05. FormattingNumbers\bin\Debug\_05.FormattingNumbers.exe
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\05. FormattingNumbers\bin\Debug\_05.FormattingNumbers.pdb
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\05. FormattingNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\05. FormattingNumbers\obj\x86\Debug\_05.FormattingNumbers.exe
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\05. FormattingNumbers\obj\x86\Debug\_05.FormattingNumbers.pdb

@@ -1,0 +1,5 @@
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\17.CalculateGCD\obj\x86\Debug\17.CalculateGCD.exe
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\17.CalculateGCD\obj\x86\Debug\17.CalculateGCD.pdb
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\17.CalculateGCD\bin\Debug\17.CalculateGCD.exe
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\17.CalculateGCD\bin\Debug\17.CalculateGCD.pdb
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\17.CalculateGCD\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\07.Combinatorics\bin\Debug\07.Combinatorics.exe
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\07.Combinatorics\bin\Debug\07.Combinatorics.pdb
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\07.Combinatorics\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\07.Combinatorics\obj\x86\Debug\07.Combinatorics.exe
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\07.Combinatorics\obj\x86\Debug\07.Combinatorics.pdb

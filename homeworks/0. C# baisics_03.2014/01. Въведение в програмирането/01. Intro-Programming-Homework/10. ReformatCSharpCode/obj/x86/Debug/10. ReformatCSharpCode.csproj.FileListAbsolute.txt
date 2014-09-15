@@ -1,0 +1,12 @@
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\10. ReformatCSharpCode\bin\Debug\_10.ReformatCSharpCode.exe
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\10. ReformatCSharpCode\bin\Debug\_10.ReformatCSharpCode.pdb
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\10. ReformatCSharpCode\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\10. ReformatCSharpCode\obj\x86\Debug\_10.ReformatCSharpCode.exe
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\10. ReformatCSharpCode\obj\x86\Debug\_10.ReformatCSharpCode.pdb
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\1. Intro-Programming-Homework\10. ReformatCSharpCode\obj\x86\Debug\_10.ReformatCSharpCode.exe
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\1. Intro-Programming-Homework\10. ReformatCSharpCode\obj\x86\Debug\_10.ReformatCSharpCode.pdb
+C:\SoftUni\0. C# baisics_03.2014\01. Въведение в програмирането\01. Intro-Programming-Homework\10. ReformatCSharpCode\obj\x86\Debug\_10.ReformatCSharpCode.exe
+C:\SoftUni\0. C# baisics_03.2014\01. Въведение в програмирането\01. Intro-Programming-Homework\10. ReformatCSharpCode\obj\x86\Debug\_10.ReformatCSharpCode.pdb
+C:\SoftUni\0. C# baisics_03.2014\01. Въведение в програмирането\01. Intro-Programming-Homework\10. ReformatCSharpCode\bin\Debug\_10.ReformatCSharpCode.exe
+C:\SoftUni\0. C# baisics_03.2014\01. Въведение в програмирането\01. Intro-Programming-Homework\10. ReformatCSharpCode\bin\Debug\_10.ReformatCSharpCode.pdb
+C:\SoftUni\0. C# baisics_03.2014\01. Въведение в програмирането\01. Intro-Programming-Homework\10. ReformatCSharpCode\obj\x86\Debug\ResolveAssemblyReference.cache

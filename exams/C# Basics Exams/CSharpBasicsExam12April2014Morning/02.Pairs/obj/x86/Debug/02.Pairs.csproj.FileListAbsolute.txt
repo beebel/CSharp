@@ -1,0 +1,5 @@
+C:\SoftUni\C# Basics Exams\CSharpBasicsExam12April2014Morning\02.Pairs\bin\Debug\02.Pairs.exe
+C:\SoftUni\C# Basics Exams\CSharpBasicsExam12April2014Morning\02.Pairs\bin\Debug\02.Pairs.pdb
+C:\SoftUni\C# Basics Exams\CSharpBasicsExam12April2014Morning\02.Pairs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\C# Basics Exams\CSharpBasicsExam12April2014Morning\02.Pairs\obj\x86\Debug\02.Pairs.exe
+C:\SoftUni\C# Basics Exams\CSharpBasicsExam12April2014Morning\02.Pairs\obj\x86\Debug\02.Pairs.pdb

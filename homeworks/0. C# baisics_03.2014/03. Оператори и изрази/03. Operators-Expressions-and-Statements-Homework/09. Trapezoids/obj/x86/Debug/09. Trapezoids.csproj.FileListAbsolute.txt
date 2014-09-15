@@ -1,0 +1,5 @@
+C:\SoftUni\0. C# baisics_03.2014\03. Оператори и изрази\03. Operators-Expressions-and-Statements-Homework\09. Trapezoids\bin\Debug\_09.Trapezoids.exe
+C:\SoftUni\0. C# baisics_03.2014\03. Оператори и изрази\03. Operators-Expressions-and-Statements-Homework\09. Trapezoids\bin\Debug\_09.Trapezoids.pdb
+C:\SoftUni\0. C# baisics_03.2014\03. Оператори и изрази\03. Operators-Expressions-and-Statements-Homework\09. Trapezoids\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C# baisics_03.2014\03. Оператори и изрази\03. Operators-Expressions-and-Statements-Homework\09. Trapezoids\obj\x86\Debug\_09.Trapezoids.exe
+C:\SoftUni\0. C# baisics_03.2014\03. Оператори и изрази\03. Operators-Expressions-and-Statements-Homework\09. Trapezoids\obj\x86\Debug\_09.Trapezoids.pdb

@@ -1,0 +1,5 @@
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\04.PrintADeckOf52Cards\bin\Debug\04.PrintADeckOf52Cards.exe
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\04.PrintADeckOf52Cards\bin\Debug\04.PrintADeckOf52Cards.pdb
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\04.PrintADeckOf52Cards\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\04.PrintADeckOf52Cards\obj\x86\Debug\04.PrintADeckOf52Cards.exe
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\04.PrintADeckOf52Cards\obj\x86\Debug\04.PrintADeckOf52Cards.pdb

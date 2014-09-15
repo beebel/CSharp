@@ -1,0 +1,5 @@
+C:\SoftUni\C# Basics Exams\C# Basics Exam 10 April 2014 Evening\CSharpBasicsExam10April2014Evening\03. Eclipse\bin\Debug\_03.Eclipse.exe
+C:\SoftUni\C# Basics Exams\C# Basics Exam 10 April 2014 Evening\CSharpBasicsExam10April2014Evening\03. Eclipse\bin\Debug\_03.Eclipse.pdb
+C:\SoftUni\C# Basics Exams\C# Basics Exam 10 April 2014 Evening\CSharpBasicsExam10April2014Evening\03. Eclipse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\C# Basics Exams\C# Basics Exam 10 April 2014 Evening\CSharpBasicsExam10April2014Evening\03. Eclipse\obj\x86\Debug\_03.Eclipse.exe
+C:\SoftUni\C# Basics Exams\C# Basics Exam 10 April 2014 Evening\CSharpBasicsExam10April2014Evening\03. Eclipse\obj\x86\Debug\_03.Eclipse.pdb

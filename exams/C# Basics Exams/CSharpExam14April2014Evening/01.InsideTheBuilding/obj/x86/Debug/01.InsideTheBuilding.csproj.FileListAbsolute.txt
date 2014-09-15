@@ -1,0 +1,5 @@
+C:\SoftUni\C# Basics Exams\CSharpExam14April2014Evening\01.InsideTheBuilding\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\C# Basics Exams\CSharpExam14April2014Evening\01.InsideTheBuilding\bin\Debug\01.InsideTheBuilding.exe
+C:\SoftUni\C# Basics Exams\CSharpExam14April2014Evening\01.InsideTheBuilding\bin\Debug\01.InsideTheBuilding.pdb
+C:\SoftUni\C# Basics Exams\CSharpExam14April2014Evening\01.InsideTheBuilding\obj\x86\Debug\01.InsideTheBuilding.exe
+C:\SoftUni\C# Basics Exams\CSharpExam14April2014Evening\01.InsideTheBuilding\obj\x86\Debug\01.InsideTheBuilding.pdb

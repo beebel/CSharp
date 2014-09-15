@@ -1,0 +1,5 @@
+C:\SoftUni\C# Basics Exams\CSharp Basics Exam 11 April 2014 Evening\03.NewHouse\bin\Debug\03.NewHouse.exe
+C:\SoftUni\C# Basics Exams\CSharp Basics Exam 11 April 2014 Evening\03.NewHouse\bin\Debug\03.NewHouse.pdb
+C:\SoftUni\C# Basics Exams\CSharp Basics Exam 11 April 2014 Evening\03.NewHouse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\C# Basics Exams\CSharp Basics Exam 11 April 2014 Evening\03.NewHouse\obj\x86\Debug\03.NewHouse.exe
+C:\SoftUni\C# Basics Exams\CSharp Basics Exam 11 April 2014 Evening\03.NewHouse\obj\x86\Debug\03.NewHouse.pdb

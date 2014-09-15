@@ -1,0 +1,5 @@
+C:\SoftUni\C# Basics Exams\C Sh Basics Exam 10 April 2014 Morning\04. NineDigitMagicNumbers\bin\Debug\_04.NineDigitMagicNumbers.exe
+C:\SoftUni\C# Basics Exams\C Sh Basics Exam 10 April 2014 Morning\04. NineDigitMagicNumbers\bin\Debug\_04.NineDigitMagicNumbers.pdb
+C:\SoftUni\C# Basics Exams\C Sh Basics Exam 10 April 2014 Morning\04. NineDigitMagicNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\C# Basics Exams\C Sh Basics Exam 10 April 2014 Morning\04. NineDigitMagicNumbers\obj\x86\Debug\_04.NineDigitMagicNumbers.exe
+C:\SoftUni\C# Basics Exams\C Sh Basics Exam 10 April 2014 Morning\04. NineDigitMagicNumbers\obj\x86\Debug\_04.NineDigitMagicNumbers.pdb

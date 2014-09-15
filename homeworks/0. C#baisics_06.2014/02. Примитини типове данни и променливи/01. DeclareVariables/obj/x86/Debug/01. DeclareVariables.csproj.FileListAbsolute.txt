@@ -1,0 +1,5 @@
+C:\SoftUni\0. C#baisics_06.2014\02. Примитини типове данни и променливи\01. DeclareVariables\bin\Debug\_01.DeclareVariables.exe
+C:\SoftUni\0. C#baisics_06.2014\02. Примитини типове данни и променливи\01. DeclareVariables\bin\Debug\_01.DeclareVariables.pdb
+C:\SoftUni\0. C#baisics_06.2014\02. Примитини типове данни и променливи\01. DeclareVariables\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C#baisics_06.2014\02. Примитини типове данни и променливи\01. DeclareVariables\obj\x86\Debug\_01.DeclareVariables.exe
+C:\SoftUni\0. C#baisics_06.2014\02. Примитини типове данни и променливи\01. DeclareVariables\obj\x86\Debug\_01.DeclareVariables.pdb

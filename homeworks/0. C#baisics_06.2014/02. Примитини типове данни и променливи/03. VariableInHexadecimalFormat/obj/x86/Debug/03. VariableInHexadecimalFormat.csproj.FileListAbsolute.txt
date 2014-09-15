@@ -1,0 +1,5 @@
+C:\SoftUni\0. C#baisics_06.2014\02. Примитини типове данни и променливи\03. VariableInHexadecimalFormat\bin\Debug\_03.VariableInHexadecimalFormat.exe
+C:\SoftUni\0. C#baisics_06.2014\02. Примитини типове данни и променливи\03. VariableInHexadecimalFormat\bin\Debug\_03.VariableInHexadecimalFormat.pdb
+C:\SoftUni\0. C#baisics_06.2014\02. Примитини типове данни и променливи\03. VariableInHexadecimalFormat\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C#baisics_06.2014\02. Примитини типове данни и променливи\03. VariableInHexadecimalFormat\obj\x86\Debug\_03.VariableInHexadecimalFormat.exe
+C:\SoftUni\0. C#baisics_06.2014\02. Примитини типове данни и променливи\03. VariableInHexadecimalFormat\obj\x86\Debug\_03.VariableInHexadecimalFormat.pdb

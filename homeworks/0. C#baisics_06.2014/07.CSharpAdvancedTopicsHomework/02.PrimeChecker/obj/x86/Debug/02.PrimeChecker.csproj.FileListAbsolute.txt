@@ -1,0 +1,5 @@
+C:\SoftUni\0. C#baisics_06.2014\07.CSharpAdvancedTopicsHomework\02.PrimeChecker\bin\Debug\02.PrimeChecker.exe
+C:\SoftUni\0. C#baisics_06.2014\07.CSharpAdvancedTopicsHomework\02.PrimeChecker\bin\Debug\02.PrimeChecker.pdb
+C:\SoftUni\0. C#baisics_06.2014\07.CSharpAdvancedTopicsHomework\02.PrimeChecker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C#baisics_06.2014\07.CSharpAdvancedTopicsHomework\02.PrimeChecker\obj\x86\Debug\02.PrimeChecker.exe
+C:\SoftUni\0. C#baisics_06.2014\07.CSharpAdvancedTopicsHomework\02.PrimeChecker\obj\x86\Debug\02.PrimeChecker.pdb

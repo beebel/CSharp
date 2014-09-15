@@ -1,0 +1,5 @@
+C:\SoftUni\0. C# baisics_03.2014\01. Въведение в програмирането\01. Intro-Programming-Homework\03. PlayWithMSDNLibrary\bin\Debug\_03.PlayWithMSDNLibrary.exe
+C:\SoftUni\0. C# baisics_03.2014\01. Въведение в програмирането\01. Intro-Programming-Homework\03. PlayWithMSDNLibrary\bin\Debug\_03.PlayWithMSDNLibrary.pdb
+C:\SoftUni\0. C# baisics_03.2014\01. Въведение в програмирането\01. Intro-Programming-Homework\03. PlayWithMSDNLibrary\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C# baisics_03.2014\01. Въведение в програмирането\01. Intro-Programming-Homework\03. PlayWithMSDNLibrary\obj\x86\Debug\_03.PlayWithMSDNLibrary.exe
+C:\SoftUni\0. C# baisics_03.2014\01. Въведение в програмирането\01. Intro-Programming-Homework\03. PlayWithMSDNLibrary\obj\x86\Debug\_03.PlayWithMSDNLibrary.pdb

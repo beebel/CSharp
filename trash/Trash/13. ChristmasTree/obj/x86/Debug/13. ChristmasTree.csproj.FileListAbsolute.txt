@@ -1,0 +1,5 @@
+C:\SoftUni\Trash\Trash\13. ChristmasTree\bin\Debug\_13.ChristmasTree.exe
+C:\SoftUni\Trash\Trash\13. ChristmasTree\bin\Debug\_13.ChristmasTree.pdb
+C:\SoftUni\Trash\Trash\13. ChristmasTree\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\Trash\Trash\13. ChristmasTree\obj\x86\Debug\_13.ChristmasTree.exe
+C:\SoftUni\Trash\Trash\13. ChristmasTree\obj\x86\Debug\_13.ChristmasTree.pdb

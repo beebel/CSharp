@@ -1,0 +1,5 @@
+C:\SoftUni\C# Basics Exams\CSharpSampleExamMay2014\02.Tribonacci\bin\Debug\02.Tribonacci.exe
+C:\SoftUni\C# Basics Exams\CSharpSampleExamMay2014\02.Tribonacci\bin\Debug\02.Tribonacci.pdb
+C:\SoftUni\C# Basics Exams\CSharpSampleExamMay2014\02.Tribonacci\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\C# Basics Exams\CSharpSampleExamMay2014\02.Tribonacci\obj\x86\Debug\02.Tribonacci.exe
+C:\SoftUni\C# Basics Exams\CSharpSampleExamMay2014\02.Tribonacci\obj\x86\Debug\02.Tribonacci.pdb

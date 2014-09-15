@@ -1,0 +1,12 @@
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\15. AgeAfter10Years\bin\Debug\_15.AgeAfter10Years.exe
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\15. AgeAfter10Years\bin\Debug\_15.AgeAfter10Years.pdb
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\15. AgeAfter10Years\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\15. AgeAfter10Years\obj\x86\Debug\_15.AgeAfter10Years.exe
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\15. AgeAfter10Years\obj\x86\Debug\_15.AgeAfter10Years.pdb
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\1. Intro-Programming-Homework\15. AgeAfter10Years\obj\x86\Debug\_15.AgeAfter10Years.exe
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\1. Intro-Programming-Homework\15. AgeAfter10Years\obj\x86\Debug\_15.AgeAfter10Years.pdb
+C:\SoftUni\0. C# baisics_03.2014\01. Въведение в програмирането\01. Intro-Programming-Homework\15. AgeAfter10Years\bin\Debug\_15.AgeAfter10Years.exe
+C:\SoftUni\0. C# baisics_03.2014\01. Въведение в програмирането\01. Intro-Programming-Homework\15. AgeAfter10Years\bin\Debug\_15.AgeAfter10Years.pdb
+C:\SoftUni\0. C# baisics_03.2014\01. Въведение в програмирането\01. Intro-Programming-Homework\15. AgeAfter10Years\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C# baisics_03.2014\01. Въведение в програмирането\01. Intro-Programming-Homework\15. AgeAfter10Years\obj\x86\Debug\_15.AgeAfter10Years.exe
+C:\SoftUni\0. C# baisics_03.2014\01. Въведение в програмирането\01. Intro-Programming-Homework\15. AgeAfter10Years\obj\x86\Debug\_15.AgeAfter10Years.pdb

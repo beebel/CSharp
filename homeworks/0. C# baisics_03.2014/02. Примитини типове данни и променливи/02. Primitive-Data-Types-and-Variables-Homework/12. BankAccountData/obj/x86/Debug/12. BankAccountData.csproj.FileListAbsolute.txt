@@ -1,0 +1,5 @@
+C:\SoftUni\0. C# baisics_03.2014\02. Примитини типове данни и променливи\02. Primitive-Data-Types-and-Variables-Homework\12. BankAccountData\bin\Debug\_12.BankAccountData.exe
+C:\SoftUni\0. C# baisics_03.2014\02. Примитини типове данни и променливи\02. Primitive-Data-Types-and-Variables-Homework\12. BankAccountData\bin\Debug\_12.BankAccountData.pdb
+C:\SoftUni\0. C# baisics_03.2014\02. Примитини типове данни и променливи\02. Primitive-Data-Types-and-Variables-Homework\12. BankAccountData\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C# baisics_03.2014\02. Примитини типове данни и променливи\02. Primitive-Data-Types-and-Variables-Homework\12. BankAccountData\obj\x86\Debug\_12.BankAccountData.exe
+C:\SoftUni\0. C# baisics_03.2014\02. Примитини типове данни и променливи\02. Primitive-Data-Types-and-Variables-Homework\12. BankAccountData\obj\x86\Debug\_12.BankAccountData.pdb

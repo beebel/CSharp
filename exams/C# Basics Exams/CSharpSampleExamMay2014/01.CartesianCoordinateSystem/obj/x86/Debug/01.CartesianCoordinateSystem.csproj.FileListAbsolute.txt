@@ -1,0 +1,5 @@
+C:\SoftUni\C# Basics Exams\CSharpSampleExamMay2014\01.CartesianCoordinateSystem\bin\Debug\01.CartesianCoordinateSystem.exe
+C:\SoftUni\C# Basics Exams\CSharpSampleExamMay2014\01.CartesianCoordinateSystem\bin\Debug\01.CartesianCoordinateSystem.pdb
+C:\SoftUni\C# Basics Exams\CSharpSampleExamMay2014\01.CartesianCoordinateSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\C# Basics Exams\CSharpSampleExamMay2014\01.CartesianCoordinateSystem\obj\x86\Debug\01.CartesianCoordinateSystem.exe
+C:\SoftUni\C# Basics Exams\CSharpSampleExamMay2014\01.CartesianCoordinateSystem\obj\x86\Debug\01.CartesianCoordinateSystem.pdb

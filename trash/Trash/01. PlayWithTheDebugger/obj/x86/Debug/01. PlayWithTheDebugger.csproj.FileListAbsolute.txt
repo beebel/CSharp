@@ -1,0 +1,10 @@
+C:\Documents and Settings\h\Desktop\SoftUni\Trash\Trash\01. PlayWithTheDebugger\bin\Debug\_01.PlayWithTheDebugger.exe
+C:\Documents and Settings\h\Desktop\SoftUni\Trash\Trash\01. PlayWithTheDebugger\bin\Debug\_01.PlayWithTheDebugger.pdb
+C:\Documents and Settings\h\Desktop\SoftUni\Trash\Trash\01. PlayWithTheDebugger\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\h\Desktop\SoftUni\Trash\Trash\01. PlayWithTheDebugger\obj\x86\Debug\_01.PlayWithTheDebugger.exe
+C:\Documents and Settings\h\Desktop\SoftUni\Trash\Trash\01. PlayWithTheDebugger\obj\x86\Debug\_01.PlayWithTheDebugger.pdb
+C:\SoftUni\Trash\Trash\01. PlayWithTheDebugger\obj\x86\Debug\_01.PlayWithTheDebugger.exe
+C:\SoftUni\Trash\Trash\01. PlayWithTheDebugger\obj\x86\Debug\_01.PlayWithTheDebugger.pdb
+C:\SoftUni\Trash\Trash\01. PlayWithTheDebugger\bin\Debug\_01.PlayWithTheDebugger.exe
+C:\SoftUni\Trash\Trash\01. PlayWithTheDebugger\bin\Debug\_01.PlayWithTheDebugger.pdb
+C:\SoftUni\Trash\Trash\01. PlayWithTheDebugger\obj\x86\Debug\ResolveAssemblyReference.cache

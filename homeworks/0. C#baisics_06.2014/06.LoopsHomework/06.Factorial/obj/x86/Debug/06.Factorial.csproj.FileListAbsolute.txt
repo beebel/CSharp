@@ -1,0 +1,5 @@
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\06.Factorial\bin\Debug\06.Factorial.exe
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\06.Factorial\bin\Debug\06.Factorial.pdb
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\06.Factorial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\06.Factorial\obj\x86\Debug\06.Factorial.exe
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\06.Factorial\obj\x86\Debug\06.Factorial.pdb

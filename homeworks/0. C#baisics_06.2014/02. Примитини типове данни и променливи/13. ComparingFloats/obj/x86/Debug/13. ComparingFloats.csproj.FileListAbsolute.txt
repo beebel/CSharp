@@ -1,0 +1,5 @@
+C:\SoftUni\0. C#baisics_06.2014\02. Примитини типове данни и променливи\13. ComparingFloats\bin\Debug\_13.ComparingFloats.exe
+C:\SoftUni\0. C#baisics_06.2014\02. Примитини типове данни и променливи\13. ComparingFloats\bin\Debug\_13.ComparingFloats.pdb
+C:\SoftUni\0. C#baisics_06.2014\02. Примитини типове данни и променливи\13. ComparingFloats\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C#baisics_06.2014\02. Примитини типове данни и променливи\13. ComparingFloats\obj\x86\Debug\_13.ComparingFloats.exe
+C:\SoftUni\0. C#baisics_06.2014\02. Примитини типове данни и променливи\13. ComparingFloats\obj\x86\Debug\_13.ComparingFloats.pdb

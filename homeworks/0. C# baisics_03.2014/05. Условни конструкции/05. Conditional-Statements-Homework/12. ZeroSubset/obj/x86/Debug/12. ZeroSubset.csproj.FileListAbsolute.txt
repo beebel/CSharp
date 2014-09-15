@@ -1,0 +1,5 @@
+C:\SoftUni\0. C# baisics_03.2014\05. Условни конструкции\05. Conditional-Statements-Homework\12. ZeroSubset\bin\Debug\_12.ZeroSubset.exe
+C:\SoftUni\0. C# baisics_03.2014\05. Условни конструкции\05. Conditional-Statements-Homework\12. ZeroSubset\bin\Debug\_12.ZeroSubset.pdb
+C:\SoftUni\0. C# baisics_03.2014\05. Условни конструкции\05. Conditional-Statements-Homework\12. ZeroSubset\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C# baisics_03.2014\05. Условни конструкции\05. Conditional-Statements-Homework\12. ZeroSubset\obj\x86\Debug\_12.ZeroSubset.exe
+C:\SoftUni\0. C# baisics_03.2014\05. Условни конструкции\05. Conditional-Statements-Homework\12. ZeroSubset\obj\x86\Debug\_12.ZeroSubset.pdb

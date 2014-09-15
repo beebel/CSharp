@@ -1,0 +1,5 @@
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\12. FallingRocks\bin\Debug\_12.FallingRocks.exe
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\12. FallingRocks\bin\Debug\_12.FallingRocks.pdb
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\12. FallingRocks\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\12. FallingRocks\obj\x86\Debug\_12.FallingRocks.exe
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\12. FallingRocks\obj\x86\Debug\_12.FallingRocks.pdb

@@ -1,0 +1,5 @@
+C:\SoftUni\Trash\Trash\15.Checked(forOverFlow)\bin\Debug\15.Checked(forOverFlow).exe
+C:\SoftUni\Trash\Trash\15.Checked(forOverFlow)\bin\Debug\15.Checked(forOverFlow).pdb
+C:\SoftUni\Trash\Trash\15.Checked(forOverFlow)\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\Trash\Trash\15.Checked(forOverFlow)\obj\x86\Debug\15.Checked(forOverFlow).exe
+C:\SoftUni\Trash\Trash\15.Checked(forOverFlow)\obj\x86\Debug\15.Checked(forOverFlow).pdb

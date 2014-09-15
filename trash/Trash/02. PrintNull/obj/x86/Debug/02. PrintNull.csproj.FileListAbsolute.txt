@@ -1,0 +1,7 @@
+C:\Documents and Settings\h\Desktop\SoftUni\Trash\Trash\02. PrintNull\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\h\Desktop\SoftUni\Trash\Trash\02. PrintNull\bin\Debug\_02.PrintNull.exe
+C:\Documents and Settings\h\Desktop\SoftUni\Trash\Trash\02. PrintNull\bin\Debug\_02.PrintNull.pdb
+C:\Documents and Settings\h\Desktop\SoftUni\Trash\Trash\02. PrintNull\obj\x86\Debug\_02.PrintNull.exe
+C:\Documents and Settings\h\Desktop\SoftUni\Trash\Trash\02. PrintNull\obj\x86\Debug\_02.PrintNull.pdb
+C:\SoftUni\Trash\Trash\02. PrintNull\obj\x86\Debug\_02.PrintNull.exe
+C:\SoftUni\Trash\Trash\02. PrintNull\obj\x86\Debug\_02.PrintNull.pdb

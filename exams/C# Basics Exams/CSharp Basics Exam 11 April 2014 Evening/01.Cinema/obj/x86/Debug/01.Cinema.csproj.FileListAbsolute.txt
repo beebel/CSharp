@@ -1,0 +1,5 @@
+C:\SoftUni\C# Basics Exams\CSharp Basics Exam 11 April 2014 Evening\01.Cinema\bin\Debug\01.Cinema.exe
+C:\SoftUni\C# Basics Exams\CSharp Basics Exam 11 April 2014 Evening\01.Cinema\bin\Debug\01.Cinema.pdb
+C:\SoftUni\C# Basics Exams\CSharp Basics Exam 11 April 2014 Evening\01.Cinema\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\C# Basics Exams\CSharp Basics Exam 11 April 2014 Evening\01.Cinema\obj\x86\Debug\01.Cinema.exe
+C:\SoftUni\C# Basics Exams\CSharp Basics Exam 11 April 2014 Evening\01.Cinema\obj\x86\Debug\01.Cinema.pdb

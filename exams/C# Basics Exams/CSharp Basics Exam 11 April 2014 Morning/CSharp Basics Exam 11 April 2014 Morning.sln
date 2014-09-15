@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.WorkHours", "01.WorkHours\01.WorkHours.csproj", "{3E0A1357-05C5-4B53-9DBB-3D400AEA722C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SumOfElements", "02.SumOfElements\02.SumOfElements.csproj", "{D89C83B8-B05C-4742-927C-4C46414C381A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.TheExplorer", "03.TheExplorer\03.TheExplorer.csproj", "{9F2F6B81-9FBB-44FA-AFD0-3A42475AC4A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.MagicStrings", "04.MagicStrings\04.MagicStrings.csproj", "{BE90787C-369C-4FF5-A54E-F49713730D33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Avtorsko reshenie", "04.Avtorsko reshenie\04.Avtorsko reshenie.csproj", "{41F76DBB-966D-4A7C-97D0-939C31C091BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.BitShifting", "05.BitShifting\05.BitShifting.csproj", "{84848B74-5A3A-416B-ADA4-29FB73C4CBAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.AvtorskoReshenie", "05.AvtorskoReshenie\05.AvtorskoReshenie.csproj", "{14D95935-DD4C-4840-92E9-2B08D9FD4250}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.AvtorskoReshenie2", "05.AvtorskoReshenie2\05.AvtorskoReshenie2.csproj", "{D310C0F4-0316-45ED-BE38-58C7B309B22E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E0A1357-05C5-4B53-9DBB-3D400AEA722C}.Debug|x86.ActiveCfg = Debug|x86
+		{3E0A1357-05C5-4B53-9DBB-3D400AEA722C}.Debug|x86.Build.0 = Debug|x86
+		{3E0A1357-05C5-4B53-9DBB-3D400AEA722C}.Release|x86.ActiveCfg = Release|x86
+		{3E0A1357-05C5-4B53-9DBB-3D400AEA722C}.Release|x86.Build.0 = Release|x86
+		{D89C83B8-B05C-4742-927C-4C46414C381A}.Debug|x86.ActiveCfg = Debug|x86
+		{D89C83B8-B05C-4742-927C-4C46414C381A}.Debug|x86.Build.0 = Debug|x86
+		{D89C83B8-B05C-4742-927C-4C46414C381A}.Release|x86.ActiveCfg = Release|x86
+		{D89C83B8-B05C-4742-927C-4C46414C381A}.Release|x86.Build.0 = Release|x86
+		{9F2F6B81-9FBB-44FA-AFD0-3A42475AC4A9}.Debug|x86.ActiveCfg = Debug|x86
+		{9F2F6B81-9FBB-44FA-AFD0-3A42475AC4A9}.Debug|x86.Build.0 = Debug|x86
+		{9F2F6B81-9FBB-44FA-AFD0-3A42475AC4A9}.Release|x86.ActiveCfg = Release|x86
+		{9F2F6B81-9FBB-44FA-AFD0-3A42475AC4A9}.Release|x86.Build.0 = Release|x86
+		{BE90787C-369C-4FF5-A54E-F49713730D33}.Debug|x86.ActiveCfg = Debug|x86
+		{BE90787C-369C-4FF5-A54E-F49713730D33}.Debug|x86.Build.0 = Debug|x86
+		{BE90787C-369C-4FF5-A54E-F49713730D33}.Release|x86.ActiveCfg = Release|x86
+		{BE90787C-369C-4FF5-A54E-F49713730D33}.Release|x86.Build.0 = Release|x86
+		{41F76DBB-966D-4A7C-97D0-939C31C091BD}.Debug|x86.ActiveCfg = Debug|x86
+		{41F76DBB-966D-4A7C-97D0-939C31C091BD}.Debug|x86.Build.0 = Debug|x86
+		{41F76DBB-966D-4A7C-97D0-939C31C091BD}.Release|x86.ActiveCfg = Release|x86
+		{41F76DBB-966D-4A7C-97D0-939C31C091BD}.Release|x86.Build.0 = Release|x86
+		{84848B74-5A3A-416B-ADA4-29FB73C4CBAA}.Debug|x86.ActiveCfg = Debug|x86
+		{84848B74-5A3A-416B-ADA4-29FB73C4CBAA}.Debug|x86.Build.0 = Debug|x86
+		{84848B74-5A3A-416B-ADA4-29FB73C4CBAA}.Release|x86.ActiveCfg = Release|x86
+		{84848B74-5A3A-416B-ADA4-29FB73C4CBAA}.Release|x86.Build.0 = Release|x86
+		{14D95935-DD4C-4840-92E9-2B08D9FD4250}.Debug|x86.ActiveCfg = Debug|x86
+		{14D95935-DD4C-4840-92E9-2B08D9FD4250}.Debug|x86.Build.0 = Debug|x86
+		{14D95935-DD4C-4840-92E9-2B08D9FD4250}.Release|x86.ActiveCfg = Release|x86
+		{14D95935-DD4C-4840-92E9-2B08D9FD4250}.Release|x86.Build.0 = Release|x86
+		{D310C0F4-0316-45ED-BE38-58C7B309B22E}.Debug|x86.ActiveCfg = Debug|x86
+		{D310C0F4-0316-45ED-BE38-58C7B309B22E}.Debug|x86.Build.0 = Debug|x86
+		{D310C0F4-0316-45ED-BE38-58C7B309B22E}.Release|x86.ActiveCfg = Release|x86
+		{D310C0F4-0316-45ED-BE38-58C7B309B22E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

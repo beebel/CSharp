@@ -1,0 +1,5 @@
+C:\SoftUni\C# Basics Exams\CSharp Basics Exam 11 April 2014 Evening\02.Illuminati\bin\Debug\02.Illuminati.exe
+C:\SoftUni\C# Basics Exams\CSharp Basics Exam 11 April 2014 Evening\02.Illuminati\bin\Debug\02.Illuminati.pdb
+C:\SoftUni\C# Basics Exams\CSharp Basics Exam 11 April 2014 Evening\02.Illuminati\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\C# Basics Exams\CSharp Basics Exam 11 April 2014 Evening\02.Illuminati\obj\x86\Debug\02.Illuminati.exe
+C:\SoftUni\C# Basics Exams\CSharp Basics Exam 11 April 2014 Evening\02.Illuminati\obj\x86\Debug\02.Illuminati.pdb

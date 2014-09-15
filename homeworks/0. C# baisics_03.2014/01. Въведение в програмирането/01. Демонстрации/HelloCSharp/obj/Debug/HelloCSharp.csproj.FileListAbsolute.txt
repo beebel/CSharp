@@ -1,0 +1,5 @@
+C:\Documents and Settings\h\Desktop\SoftUni\C# baisics.0_03.2014\1. Въведение в програмирането\1. Демонстрации\HelloCSharp\bin\Debug\HelloCSharp.exe
+C:\Documents and Settings\h\Desktop\SoftUni\C# baisics.0_03.2014\1. Въведение в програмирането\1. Демонстрации\HelloCSharp\bin\Debug\HelloCSharp.pdb
+C:\Documents and Settings\h\Desktop\SoftUni\C# baisics.0_03.2014\1. Въведение в програмирането\1. Демонстрации\HelloCSharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\h\Desktop\SoftUni\C# baisics.0_03.2014\1. Въведение в програмирането\1. Демонстрации\HelloCSharp\obj\Debug\HelloCSharp.exe
+C:\Documents and Settings\h\Desktop\SoftUni\C# baisics.0_03.2014\1. Въведение в програмирането\1. Демонстрации\HelloCSharp\obj\Debug\HelloCSharp.pdb

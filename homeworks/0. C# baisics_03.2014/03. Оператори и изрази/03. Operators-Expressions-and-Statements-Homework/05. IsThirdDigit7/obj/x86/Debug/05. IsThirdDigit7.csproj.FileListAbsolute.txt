@@ -1,0 +1,5 @@
+C:\SoftUni\0. C# baisics_03.2014\03. Оператори и изрази\03. Operators-Expressions-and-Statements-Homework\05. IsThirdDigit7\bin\Debug\_05.IsThirdDigit7.exe
+C:\SoftUni\0. C# baisics_03.2014\03. Оператори и изрази\03. Operators-Expressions-and-Statements-Homework\05. IsThirdDigit7\bin\Debug\_05.IsThirdDigit7.pdb
+C:\SoftUni\0. C# baisics_03.2014\03. Оператори и изрази\03. Operators-Expressions-and-Statements-Homework\05. IsThirdDigit7\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C# baisics_03.2014\03. Оператори и изрази\03. Operators-Expressions-and-Statements-Homework\05. IsThirdDigit7\obj\x86\Debug\_05.IsThirdDigit7.exe
+C:\SoftUni\0. C# baisics_03.2014\03. Оператори и изрази\03. Operators-Expressions-and-Statements-Homework\05. IsThirdDigit7\obj\x86\Debug\_05.IsThirdDigit7.pdb

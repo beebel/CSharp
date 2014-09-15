@@ -1,0 +1,12 @@
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\14. CurrentDateAndTime\bin\Debug\_14.CurrentDateAndTime.exe
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\14. CurrentDateAndTime\bin\Debug\_14.CurrentDateAndTime.pdb
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\14. CurrentDateAndTime\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\14. CurrentDateAndTime\obj\x86\Debug\_14.CurrentDateAndTime.exe
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\14. CurrentDateAndTime\obj\x86\Debug\_14.CurrentDateAndTime.pdb
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\1. Intro-Programming-Homework\14. CurrentDateAndTime\obj\x86\Debug\_14.CurrentDateAndTime.exe
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\1. Intro-Programming-Homework\14. CurrentDateAndTime\obj\x86\Debug\_14.CurrentDateAndTime.pdb
+C:\SoftUni\0. C# baisics_03.2014\01. Въведение в програмирането\01. Intro-Programming-Homework\14. CurrentDateAndTime\bin\Debug\_14.CurrentDateAndTime.exe
+C:\SoftUni\0. C# baisics_03.2014\01. Въведение в програмирането\01. Intro-Programming-Homework\14. CurrentDateAndTime\bin\Debug\_14.CurrentDateAndTime.pdb
+C:\SoftUni\0. C# baisics_03.2014\01. Въведение в програмирането\01. Intro-Programming-Homework\14. CurrentDateAndTime\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C# baisics_03.2014\01. Въведение в програмирането\01. Intro-Programming-Homework\14. CurrentDateAndTime\obj\x86\Debug\_14.CurrentDateAndTime.exe
+C:\SoftUni\0. C# baisics_03.2014\01. Въведение в програмирането\01. Intro-Programming-Homework\14. CurrentDateAndTime\obj\x86\Debug\_14.CurrentDateAndTime.pdb

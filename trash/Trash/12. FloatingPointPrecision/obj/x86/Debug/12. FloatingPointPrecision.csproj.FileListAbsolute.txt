@@ -1,0 +1,5 @@
+C:\SoftUni\Trash\Trash\12. FloatingPointPrecision\bin\Debug\_12.FloatingPointPrecision.exe
+C:\SoftUni\Trash\Trash\12. FloatingPointPrecision\bin\Debug\_12.FloatingPointPrecision.pdb
+C:\SoftUni\Trash\Trash\12. FloatingPointPrecision\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\Trash\Trash\12. FloatingPointPrecision\obj\x86\Debug\_12.FloatingPointPrecision.exe
+C:\SoftUni\Trash\Trash\12. FloatingPointPrecision\obj\x86\Debug\_12.FloatingPointPrecision.pdb

@@ -1,0 +1,5 @@
+C:\SoftUni\C# Basics Exams\CSharpBasicsExam14 April2014Morning\02.BiggestTriple\bin\Debug\02.BiggestTriple.exe
+C:\SoftUni\C# Basics Exams\CSharpBasicsExam14 April2014Morning\02.BiggestTriple\bin\Debug\02.BiggestTriple.pdb
+C:\SoftUni\C# Basics Exams\CSharpBasicsExam14 April2014Morning\02.BiggestTriple\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\C# Basics Exams\CSharpBasicsExam14 April2014Morning\02.BiggestTriple\obj\x86\Debug\02.BiggestTriple.exe
+C:\SoftUni\C# Basics Exams\CSharpBasicsExam14 April2014Morning\02.BiggestTriple\obj\x86\Debug\02.BiggestTriple.pdb

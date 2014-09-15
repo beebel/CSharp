@@ -1,0 +1,5 @@
+C:\SoftUni\0. C# baisics_03.2014\05. Условни конструкции\05. Conditional-Statements-Homework\06. TheBiggestOfFiveNumbers\bin\Debug\_06.TheBiggestOfFiveNumbers.exe
+C:\SoftUni\0. C# baisics_03.2014\05. Условни конструкции\05. Conditional-Statements-Homework\06. TheBiggestOfFiveNumbers\bin\Debug\_06.TheBiggestOfFiveNumbers.pdb
+C:\SoftUni\0. C# baisics_03.2014\05. Условни конструкции\05. Conditional-Statements-Homework\06. TheBiggestOfFiveNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C# baisics_03.2014\05. Условни конструкции\05. Conditional-Statements-Homework\06. TheBiggestOfFiveNumbers\obj\x86\Debug\_06.TheBiggestOfFiveNumbers.exe
+C:\SoftUni\0. C# baisics_03.2014\05. Условни конструкции\05. Conditional-Statements-Homework\06. TheBiggestOfFiveNumbers\obj\x86\Debug\_06.TheBiggestOfFiveNumbers.pdb

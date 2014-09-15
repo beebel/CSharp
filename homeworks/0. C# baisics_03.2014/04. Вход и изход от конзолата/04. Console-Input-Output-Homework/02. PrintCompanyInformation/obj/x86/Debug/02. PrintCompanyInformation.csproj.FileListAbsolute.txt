@@ -1,0 +1,5 @@
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\02. PrintCompanyInformation\bin\Debug\_02.PrintCompanyInformation.exe
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\02. PrintCompanyInformation\bin\Debug\_02.PrintCompanyInformation.pdb
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\02. PrintCompanyInformation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\02. PrintCompanyInformation\obj\x86\Debug\_02.PrintCompanyInformation.exe
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\02. PrintCompanyInformation\obj\x86\Debug\_02.PrintCompanyInformation.pdb

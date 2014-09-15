@@ -1,0 +1,5 @@
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.exe
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.pdb
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\19.SpiralMatrix\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\19.SpiralMatrix\obj\x86\Debug\19.SpiralMatrix.exe
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\19.SpiralMatrix\obj\x86\Debug\19.SpiralMatrix.pdb

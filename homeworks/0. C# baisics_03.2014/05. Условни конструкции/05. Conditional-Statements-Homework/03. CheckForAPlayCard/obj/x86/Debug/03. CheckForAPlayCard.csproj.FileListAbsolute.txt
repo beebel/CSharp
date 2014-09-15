@@ -1,0 +1,5 @@
+C:\SoftUni\0. C# baisics_03.2014\05. Условни конструкции\05. Conditional-Statements-Homework\03. CheckForAPlayCard\bin\Debug\_03.CheckForAPlayCard.exe
+C:\SoftUni\0. C# baisics_03.2014\05. Условни конструкции\05. Conditional-Statements-Homework\03. CheckForAPlayCard\bin\Debug\_03.CheckForAPlayCard.pdb
+C:\SoftUni\0. C# baisics_03.2014\05. Условни конструкции\05. Conditional-Statements-Homework\03. CheckForAPlayCard\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C# baisics_03.2014\05. Условни конструкции\05. Conditional-Statements-Homework\03. CheckForAPlayCard\obj\x86\Debug\_03.CheckForAPlayCard.exe
+C:\SoftUni\0. C# baisics_03.2014\05. Условни конструкции\05. Conditional-Statements-Homework\03. CheckForAPlayCard\obj\x86\Debug\_03.CheckForAPlayCard.pdb

@@ -1,0 +1,5 @@
+C:\SoftUni\0. C# baisics_03.2014\05. Условни конструкции\05. Conditional-Statements-Homework\01. ExchangeIfGreater\bin\Debug\_01.ExchangeIfGreater.exe
+C:\SoftUni\0. C# baisics_03.2014\05. Условни конструкции\05. Conditional-Statements-Homework\01. ExchangeIfGreater\bin\Debug\_01.ExchangeIfGreater.pdb
+C:\SoftUni\0. C# baisics_03.2014\05. Условни конструкции\05. Conditional-Statements-Homework\01. ExchangeIfGreater\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C# baisics_03.2014\05. Условни конструкции\05. Conditional-Statements-Homework\01. ExchangeIfGreater\obj\x86\Debug\_01.ExchangeIfGreater.exe
+C:\SoftUni\0. C# baisics_03.2014\05. Условни конструкции\05. Conditional-Statements-Homework\01. ExchangeIfGreater\obj\x86\Debug\_01.ExchangeIfGreater.pdb

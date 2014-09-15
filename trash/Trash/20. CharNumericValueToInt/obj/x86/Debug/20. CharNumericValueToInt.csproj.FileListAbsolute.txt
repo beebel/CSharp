@@ -1,0 +1,5 @@
+C:\SoftUni\Trash\Trash\20. CharNumericValueToInt\bin\Debug\_20.CharNumericValueToInt.exe
+C:\SoftUni\Trash\Trash\20. CharNumericValueToInt\bin\Debug\_20.CharNumericValueToInt.pdb
+C:\SoftUni\Trash\Trash\20. CharNumericValueToInt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\Trash\Trash\20. CharNumericValueToInt\obj\x86\Debug\_20.CharNumericValueToInt.exe
+C:\SoftUni\Trash\Trash\20. CharNumericValueToInt\obj\x86\Debug\_20.CharNumericValueToInt.pdb

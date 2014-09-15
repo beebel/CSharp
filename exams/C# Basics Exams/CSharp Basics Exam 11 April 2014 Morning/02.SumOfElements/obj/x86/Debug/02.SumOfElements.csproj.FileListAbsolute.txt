@@ -1,0 +1,5 @@
+C:\SoftUni\C# Basics Exams\CSharp Basics Exam 11 April 2014 Morning\02.SumOfElements\bin\Debug\02.SumOfElements.exe
+C:\SoftUni\C# Basics Exams\CSharp Basics Exam 11 April 2014 Morning\02.SumOfElements\bin\Debug\02.SumOfElements.pdb
+C:\SoftUni\C# Basics Exams\CSharp Basics Exam 11 April 2014 Morning\02.SumOfElements\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\C# Basics Exams\CSharp Basics Exam 11 April 2014 Morning\02.SumOfElements\obj\x86\Debug\02.SumOfElements.exe
+C:\SoftUni\C# Basics Exams\CSharp Basics Exam 11 April 2014 Morning\02.SumOfElements\obj\x86\Debug\02.SumOfElements.pdb

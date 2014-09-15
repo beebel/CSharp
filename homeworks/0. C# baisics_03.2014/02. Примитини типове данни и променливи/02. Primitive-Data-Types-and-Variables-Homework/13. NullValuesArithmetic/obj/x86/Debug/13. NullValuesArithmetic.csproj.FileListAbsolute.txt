@@ -1,0 +1,5 @@
+C:\SoftUni\0. C# baisics_03.2014\02. Примитини типове данни и променливи\02. Primitive-Data-Types-and-Variables-Homework\13. NullValuesArithmetic\bin\Debug\_13.NullValuesArithmetic.exe
+C:\SoftUni\0. C# baisics_03.2014\02. Примитини типове данни и променливи\02. Primitive-Data-Types-and-Variables-Homework\13. NullValuesArithmetic\bin\Debug\_13.NullValuesArithmetic.pdb
+C:\SoftUni\0. C# baisics_03.2014\02. Примитини типове данни и променливи\02. Primitive-Data-Types-and-Variables-Homework\13. NullValuesArithmetic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C# baisics_03.2014\02. Примитини типове данни и променливи\02. Primitive-Data-Types-and-Variables-Homework\13. NullValuesArithmetic\obj\x86\Debug\_13.NullValuesArithmetic.exe
+C:\SoftUni\0. C# baisics_03.2014\02. Примитини типове данни и променливи\02. Primitive-Data-Types-and-Variables-Homework\13. NullValuesArithmetic\obj\x86\Debug\_13.NullValuesArithmetic.pdb

@@ -1,0 +1,5 @@
+C:\SoftUni\Trash\Trash\17. FirstCharToUpper\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\Trash\Trash\17. FirstCharToUpper\bin\Debug\_17.FirstCharToUpper.exe
+C:\SoftUni\Trash\Trash\17. FirstCharToUpper\bin\Debug\_17.FirstCharToUpper.pdb
+C:\SoftUni\Trash\Trash\17. FirstCharToUpper\obj\x86\Debug\_17.FirstCharToUpper.exe
+C:\SoftUni\Trash\Trash\17. FirstCharToUpper\obj\x86\Debug\_17.FirstCharToUpper.pdb

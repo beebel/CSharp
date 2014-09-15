@@ -1,0 +1,5 @@
+C:\SoftUni\C# Basics Exams\CSharp Basics Exam 11 April 2014 Morning\03.TheExplorer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\C# Basics Exams\CSharp Basics Exam 11 April 2014 Morning\03.TheExplorer\bin\Debug\03.TheExplorer.exe
+C:\SoftUni\C# Basics Exams\CSharp Basics Exam 11 April 2014 Morning\03.TheExplorer\bin\Debug\03.TheExplorer.pdb
+C:\SoftUni\C# Basics Exams\CSharp Basics Exam 11 April 2014 Morning\03.TheExplorer\obj\x86\Debug\03.TheExplorer.exe
+C:\SoftUni\C# Basics Exams\CSharp Basics Exam 11 April 2014 Morning\03.TheExplorer\obj\x86\Debug\03.TheExplorer.pdb

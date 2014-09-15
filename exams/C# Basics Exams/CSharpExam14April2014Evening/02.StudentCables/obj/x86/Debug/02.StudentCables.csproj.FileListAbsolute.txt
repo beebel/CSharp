@@ -1,0 +1,5 @@
+C:\SoftUni\C# Basics Exams\CSharpExam14April2014Evening\02.StudentCables\bin\Debug\02.StudentCables.exe
+C:\SoftUni\C# Basics Exams\CSharpExam14April2014Evening\02.StudentCables\bin\Debug\02.StudentCables.pdb
+C:\SoftUni\C# Basics Exams\CSharpExam14April2014Evening\02.StudentCables\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\C# Basics Exams\CSharpExam14April2014Evening\02.StudentCables\obj\x86\Debug\02.StudentCables.exe
+C:\SoftUni\C# Basics Exams\CSharpExam14April2014Evening\02.StudentCables\obj\x86\Debug\02.StudentCables.pdb

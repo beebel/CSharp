@@ -1,0 +1,5 @@
+C:\SoftUni\C# Basics Exams\CSharpBasicsExam14 April2014Morning\01.FruitMarket\bin\Debug\01.FruitMarket.exe
+C:\SoftUni\C# Basics Exams\CSharpBasicsExam14 April2014Morning\01.FruitMarket\bin\Debug\01.FruitMarket.pdb
+C:\SoftUni\C# Basics Exams\CSharpBasicsExam14 April2014Morning\01.FruitMarket\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\C# Basics Exams\CSharpBasicsExam14 April2014Morning\01.FruitMarket\obj\x86\Debug\01.FruitMarket.exe
+C:\SoftUni\C# Basics Exams\CSharpBasicsExam14 April2014Morning\01.FruitMarket\obj\x86\Debug\01.FruitMarket.pdb

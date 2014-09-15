@@ -1,0 +1,5 @@
+C:\SoftUni\Trash\Trash\06. StringToInt\bin\Debug\_06.StringToInt.exe
+C:\SoftUni\Trash\Trash\06. StringToInt\bin\Debug\_06.StringToInt.pdb
+C:\SoftUni\Trash\Trash\06. StringToInt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\Trash\Trash\06. StringToInt\obj\x86\Debug\_06.StringToInt.exe
+C:\SoftUni\Trash\Trash\06. StringToInt\obj\x86\Debug\_06.StringToInt.pdb

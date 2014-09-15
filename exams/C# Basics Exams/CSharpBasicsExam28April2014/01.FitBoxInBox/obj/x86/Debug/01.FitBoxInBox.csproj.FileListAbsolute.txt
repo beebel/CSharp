@@ -1,0 +1,5 @@
+C:\SoftUni\C# Basics Exams\CSharpBasicsExam28April2014\01.FitBoxInBox\bin\Debug\01.FitBoxInBox.exe
+C:\SoftUni\C# Basics Exams\CSharpBasicsExam28April2014\01.FitBoxInBox\bin\Debug\01.FitBoxInBox.pdb
+C:\SoftUni\C# Basics Exams\CSharpBasicsExam28April2014\01.FitBoxInBox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\C# Basics Exams\CSharpBasicsExam28April2014\01.FitBoxInBox\obj\x86\Debug\01.FitBoxInBox.exe
+C:\SoftUni\C# Basics Exams\CSharpBasicsExam28April2014\01.FitBoxInBox\obj\x86\Debug\01.FitBoxInBox.pdb

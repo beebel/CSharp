@@ -1,0 +1,5 @@
+C:\SoftUni\C# Basics Exams\C Sh Basics Exam 10 April 2014 Morning\02.HalfSum\bin\Debug\02.HalfSum.exe
+C:\SoftUni\C# Basics Exams\C Sh Basics Exam 10 April 2014 Morning\02.HalfSum\bin\Debug\02.HalfSum.pdb
+C:\SoftUni\C# Basics Exams\C Sh Basics Exam 10 April 2014 Morning\02.HalfSum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\C# Basics Exams\C Sh Basics Exam 10 April 2014 Morning\02.HalfSum\obj\x86\Debug\02.HalfSum.exe
+C:\SoftUni\C# Basics Exams\C Sh Basics Exam 10 April 2014 Morning\02.HalfSum\obj\x86\Debug\02.HalfSum.pdb

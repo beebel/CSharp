@@ -1,0 +1,5 @@
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\09. SumOfNNumbers\obj\x86\Debug\_09.SumOfNNumbers.exe
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\09. SumOfNNumbers\obj\x86\Debug\_09.SumOfNNumbers.pdb
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\09. SumOfNNumbers\bin\Debug\_09.SumOfNNumbers.exe
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\09. SumOfNNumbers\bin\Debug\_09.SumOfNNumbers.pdb
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\09. SumOfNNumbers\obj\x86\Debug\ResolveAssemblyReference.cache

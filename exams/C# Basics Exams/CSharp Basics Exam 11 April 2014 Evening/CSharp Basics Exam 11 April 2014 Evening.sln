@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Cinema", "01.Cinema\01.Cinema.csproj", "{BC37BF9A-AFC7-40D7-B5ED-9A9543A8EAE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Illuminati", "02.Illuminati\02.Illuminati.csproj", "{29989169-D340-4266-8DC7-F600658AD4E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.NewHouse", "03.NewHouse\03.NewHouse.csproj", "{36C409A6-FBE6-4ED7-B2D9-F66285BD7CA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CrossingSequences", "04.CrossingSequences\04.CrossingSequences.csproj", "{8441D439-CD3D-4995-89A5-A11A39BB8698}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.AvtorskoReshenie", "04.AvtorskoReshenie\04.AvtorskoReshenie.csproj", "{5DAB9CE9-176C-4C06-8C54-6014AAE9E081}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.CatchTheBits(Avtorsko)", "05.CatchTheBits\05.CatchTheBits(Avtorsko).csproj", "{B1CBAD40-0C1D-4653-BAB3-0423F22E1ACB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC37BF9A-AFC7-40D7-B5ED-9A9543A8EAE1}.Debug|x86.ActiveCfg = Debug|x86
+		{BC37BF9A-AFC7-40D7-B5ED-9A9543A8EAE1}.Debug|x86.Build.0 = Debug|x86
+		{BC37BF9A-AFC7-40D7-B5ED-9A9543A8EAE1}.Release|x86.ActiveCfg = Release|x86
+		{BC37BF9A-AFC7-40D7-B5ED-9A9543A8EAE1}.Release|x86.Build.0 = Release|x86
+		{29989169-D340-4266-8DC7-F600658AD4E8}.Debug|x86.ActiveCfg = Debug|x86
+		{29989169-D340-4266-8DC7-F600658AD4E8}.Debug|x86.Build.0 = Debug|x86
+		{29989169-D340-4266-8DC7-F600658AD4E8}.Release|x86.ActiveCfg = Release|x86
+		{29989169-D340-4266-8DC7-F600658AD4E8}.Release|x86.Build.0 = Release|x86
+		{36C409A6-FBE6-4ED7-B2D9-F66285BD7CA4}.Debug|x86.ActiveCfg = Debug|x86
+		{36C409A6-FBE6-4ED7-B2D9-F66285BD7CA4}.Debug|x86.Build.0 = Debug|x86
+		{36C409A6-FBE6-4ED7-B2D9-F66285BD7CA4}.Release|x86.ActiveCfg = Release|x86
+		{36C409A6-FBE6-4ED7-B2D9-F66285BD7CA4}.Release|x86.Build.0 = Release|x86
+		{8441D439-CD3D-4995-89A5-A11A39BB8698}.Debug|x86.ActiveCfg = Debug|x86
+		{8441D439-CD3D-4995-89A5-A11A39BB8698}.Debug|x86.Build.0 = Debug|x86
+		{8441D439-CD3D-4995-89A5-A11A39BB8698}.Release|x86.ActiveCfg = Release|x86
+		{8441D439-CD3D-4995-89A5-A11A39BB8698}.Release|x86.Build.0 = Release|x86
+		{5DAB9CE9-176C-4C06-8C54-6014AAE9E081}.Debug|x86.ActiveCfg = Debug|x86
+		{5DAB9CE9-176C-4C06-8C54-6014AAE9E081}.Debug|x86.Build.0 = Debug|x86
+		{5DAB9CE9-176C-4C06-8C54-6014AAE9E081}.Release|x86.ActiveCfg = Release|x86
+		{5DAB9CE9-176C-4C06-8C54-6014AAE9E081}.Release|x86.Build.0 = Release|x86
+		{B1CBAD40-0C1D-4653-BAB3-0423F22E1ACB}.Debug|x86.ActiveCfg = Debug|x86
+		{B1CBAD40-0C1D-4653-BAB3-0423F22E1ACB}.Debug|x86.Build.0 = Debug|x86
+		{B1CBAD40-0C1D-4653-BAB3-0423F22E1ACB}.Release|x86.ActiveCfg = Release|x86
+		{B1CBAD40-0C1D-4653-BAB3-0423F22E1ACB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

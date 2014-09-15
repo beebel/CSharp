@@ -1,0 +1,5 @@
+C:\SoftUni\0. C#baisics_06.2014\02. Примитини типове данни и променливи\10. EmployeeData\bin\Debug\_10.EmployeeData.exe
+C:\SoftUni\0. C#baisics_06.2014\02. Примитини типове данни и променливи\10. EmployeeData\bin\Debug\_10.EmployeeData.pdb
+C:\SoftUni\0. C#baisics_06.2014\02. Примитини типове данни и променливи\10. EmployeeData\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C#baisics_06.2014\02. Примитини типове данни и променливи\10. EmployeeData\obj\x86\Debug\_10.EmployeeData.exe
+C:\SoftUni\0. C#baisics_06.2014\02. Примитини типове данни и променливи\10. EmployeeData\obj\x86\Debug\_10.EmployeeData.pdb

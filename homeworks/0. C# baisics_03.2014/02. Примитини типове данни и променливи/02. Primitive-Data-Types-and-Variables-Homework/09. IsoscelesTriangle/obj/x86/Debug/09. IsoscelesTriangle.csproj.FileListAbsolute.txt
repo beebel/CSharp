@@ -1,0 +1,5 @@
+C:\SoftUni\0. C# baisics_03.2014\02. Примитини типове данни и променливи\02. Primitive-Data-Types-and-Variables-Homework\09. IsoscelesTriangle\bin\Debug\_09.IsoscelesTriangle.exe
+C:\SoftUni\0. C# baisics_03.2014\02. Примитини типове данни и променливи\02. Primitive-Data-Types-and-Variables-Homework\09. IsoscelesTriangle\bin\Debug\_09.IsoscelesTriangle.pdb
+C:\SoftUni\0. C# baisics_03.2014\02. Примитини типове данни и променливи\02. Primitive-Data-Types-and-Variables-Homework\09. IsoscelesTriangle\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C# baisics_03.2014\02. Примитини типове данни и променливи\02. Primitive-Data-Types-and-Variables-Homework\09. IsoscelesTriangle\obj\x86\Debug\_09.IsoscelesTriangle.exe
+C:\SoftUni\0. C# baisics_03.2014\02. Примитини типове данни и променливи\02. Primitive-Data-Types-and-Variables-Homework\09. IsoscelesTriangle\obj\x86\Debug\_09.IsoscelesTriangle.pdb

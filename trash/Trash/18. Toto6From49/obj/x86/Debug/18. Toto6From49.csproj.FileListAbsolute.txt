@@ -1,0 +1,5 @@
+C:\SoftUni\Trash\Trash\18. Toto6From49\bin\Debug\_18.Toto6From49.exe
+C:\SoftUni\Trash\Trash\18. Toto6From49\bin\Debug\_18.Toto6From49.pdb
+C:\SoftUni\Trash\Trash\18. Toto6From49\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\Trash\Trash\18. Toto6From49\obj\x86\Debug\_18.Toto6From49.exe
+C:\SoftUni\Trash\Trash\18. Toto6From49\obj\x86\Debug\_18.Toto6From49.pdb

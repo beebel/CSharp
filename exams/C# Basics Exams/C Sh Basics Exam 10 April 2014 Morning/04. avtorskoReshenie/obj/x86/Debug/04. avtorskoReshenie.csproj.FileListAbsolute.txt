@@ -1,0 +1,5 @@
+C:\SoftUni\C# Basics Exams\C Sh Basics Exam 10 April 2014 Morning\04. avtorskoReshenie\bin\Debug\_04.avtorskoReshenie.exe
+C:\SoftUni\C# Basics Exams\C Sh Basics Exam 10 April 2014 Morning\04. avtorskoReshenie\bin\Debug\_04.avtorskoReshenie.pdb
+C:\SoftUni\C# Basics Exams\C Sh Basics Exam 10 April 2014 Morning\04. avtorskoReshenie\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\C# Basics Exams\C Sh Basics Exam 10 April 2014 Morning\04. avtorskoReshenie\obj\x86\Debug\_04.avtorskoReshenie.exe
+C:\SoftUni\C# Basics Exams\C Sh Basics Exam 10 April 2014 Morning\04. avtorskoReshenie\obj\x86\Debug\_04.avtorskoReshenie.pdb

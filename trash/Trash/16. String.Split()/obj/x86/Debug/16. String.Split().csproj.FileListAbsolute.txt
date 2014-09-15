@@ -1,0 +1,5 @@
+C:\SoftUni\Trash\Trash\16. String.Split()\bin\Debug\_16.String.Split__.exe
+C:\SoftUni\Trash\Trash\16. String.Split()\bin\Debug\_16.String.Split__.pdb
+C:\SoftUni\Trash\Trash\16. String.Split()\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\Trash\Trash\16. String.Split()\obj\x86\Debug\_16.String.Split__.exe
+C:\SoftUni\Trash\Trash\16. String.Split()\obj\x86\Debug\_16.String.Split__.pdb

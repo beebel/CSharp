@@ -1,0 +1,12 @@
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\8. SquareRoot\obj\x86\Debug\_8.SquareRoot.exe
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\8. SquareRoot\obj\x86\Debug\_8.SquareRoot.pdb
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\8. SquareRoot\bin\Debug\_8.SquareRoot.exe
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\8. SquareRoot\bin\Debug\_8.SquareRoot.pdb
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\8. SquareRoot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\1. Intro-Programming-Homework\8. SquareRoot\obj\x86\Debug\_8.SquareRoot.exe
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\1. Intro-Programming-Homework\8. SquareRoot\obj\x86\Debug\_8.SquareRoot.pdb
+C:\SoftUni\0. C# baisics_03.2014\01. Въведение в програмирането\01. Intro-Programming-Homework\8. SquareRoot\bin\Debug\_8.SquareRoot.exe
+C:\SoftUni\0. C# baisics_03.2014\01. Въведение в програмирането\01. Intro-Programming-Homework\8. SquareRoot\bin\Debug\_8.SquareRoot.pdb
+C:\SoftUni\0. C# baisics_03.2014\01. Въведение в програмирането\01. Intro-Programming-Homework\8. SquareRoot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C# baisics_03.2014\01. Въведение в програмирането\01. Intro-Programming-Homework\8. SquareRoot\obj\x86\Debug\_8.SquareRoot.exe
+C:\SoftUni\0. C# baisics_03.2014\01. Въведение в програмирането\01. Intro-Programming-Homework\8. SquareRoot\obj\x86\Debug\_8.SquareRoot.pdb

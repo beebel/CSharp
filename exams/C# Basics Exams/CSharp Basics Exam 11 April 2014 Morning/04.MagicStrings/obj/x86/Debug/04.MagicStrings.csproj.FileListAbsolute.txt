@@ -1,0 +1,5 @@
+C:\SoftUni\C# Basics Exams\CSharp Basics Exam 11 April 2014 Morning\04.MagicStrings\bin\Debug\04.MagicStrings.exe
+C:\SoftUni\C# Basics Exams\CSharp Basics Exam 11 April 2014 Morning\04.MagicStrings\bin\Debug\04.MagicStrings.pdb
+C:\SoftUni\C# Basics Exams\CSharp Basics Exam 11 April 2014 Morning\04.MagicStrings\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\C# Basics Exams\CSharp Basics Exam 11 April 2014 Morning\04.MagicStrings\obj\x86\Debug\04.MagicStrings.exe
+C:\SoftUni\C# Basics Exams\CSharp Basics Exam 11 April 2014 Morning\04.MagicStrings\obj\x86\Debug\04.MagicStrings.pdb

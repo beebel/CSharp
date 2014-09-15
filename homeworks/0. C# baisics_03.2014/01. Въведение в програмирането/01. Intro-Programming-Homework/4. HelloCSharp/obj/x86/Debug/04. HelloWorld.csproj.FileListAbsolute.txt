@@ -1,0 +1,12 @@
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\4. HelloCSharp\obj\x86\Debug\_4.HelloCSharp.exe
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\4. HelloCSharp\obj\x86\Debug\_4.HelloCSharp.pdb
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\4. HelloCSharp\bin\Debug\_4.HelloCSharp.exe
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\4. HelloCSharp\bin\Debug\_4.HelloCSharp.pdb
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\4. HelloCSharp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\1. Intro-Programming-Homework\4. HelloCSharp\obj\x86\Debug\_4.HelloCSharp.exe
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\1. Intro-Programming-Homework\4. HelloCSharp\obj\x86\Debug\_4.HelloCSharp.pdb
+C:\SoftUni\0. C# baisics_03.2014\01. Въведение в програмирането\01. Intro-Programming-Homework\4. HelloCSharp\obj\x86\Debug\_4.HelloCSharp.exe
+C:\SoftUni\0. C# baisics_03.2014\01. Въведение в програмирането\01. Intro-Programming-Homework\4. HelloCSharp\obj\x86\Debug\_4.HelloCSharp.pdb
+C:\SoftUni\0. C# baisics_03.2014\01. Въведение в програмирането\01. Intro-Programming-Homework\4. HelloCSharp\bin\Debug\_4.HelloCSharp.exe
+C:\SoftUni\0. C# baisics_03.2014\01. Въведение в програмирането\01. Intro-Programming-Homework\4. HelloCSharp\bin\Debug\_4.HelloCSharp.pdb
+C:\SoftUni\0. C# baisics_03.2014\01. Въведение в програмирането\01. Intro-Programming-Homework\4. HelloCSharp\obj\x86\Debug\ResolveAssemblyReference.cache

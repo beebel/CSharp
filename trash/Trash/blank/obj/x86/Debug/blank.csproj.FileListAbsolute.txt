@@ -1,0 +1,5 @@
+C:\SoftUni\Trash\Trash\blank\bin\Debug\blank.exe
+C:\SoftUni\Trash\Trash\blank\bin\Debug\blank.pdb
+C:\SoftUni\Trash\Trash\blank\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\Trash\Trash\blank\obj\x86\Debug\blank.exe
+C:\SoftUni\Trash\Trash\blank\obj\x86\Debug\blank.pdb

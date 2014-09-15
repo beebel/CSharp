@@ -1,0 +1,5 @@
+C:\SoftUni\0. C# baisics_03.2014\03. Оператори и изрази\03. Operators-Expressions-and-Statements-Homework\16. BitExchange(Advanced)\bin\Debug\_16.BitExchange_Advanced_.exe
+C:\SoftUni\0. C# baisics_03.2014\03. Оператори и изрази\03. Operators-Expressions-and-Statements-Homework\16. BitExchange(Advanced)\bin\Debug\_16.BitExchange_Advanced_.pdb
+C:\SoftUni\0. C# baisics_03.2014\03. Оператори и изрази\03. Operators-Expressions-and-Statements-Homework\16. BitExchange(Advanced)\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C# baisics_03.2014\03. Оператори и изрази\03. Operators-Expressions-and-Statements-Homework\16. BitExchange(Advanced)\obj\x86\Debug\_16.BitExchange_Advanced_.exe
+C:\SoftUni\0. C# baisics_03.2014\03. Оператори и изрази\03. Operators-Expressions-and-Statements-Homework\16. BitExchange(Advanced)\obj\x86\Debug\_16.BitExchange_Advanced_.pdb

@@ -1,0 +1,5 @@
+C:\SoftUni\Trash\Trash\00. AgeAfter10Years\bin\Debug\_00.AgeAfter10Years.exe
+C:\SoftUni\Trash\Trash\00. AgeAfter10Years\bin\Debug\_00.AgeAfter10Years.pdb
+C:\SoftUni\Trash\Trash\00. AgeAfter10Years\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\Trash\Trash\00. AgeAfter10Years\obj\x86\Debug\_00.AgeAfter10Years.exe
+C:\SoftUni\Trash\Trash\00. AgeAfter10Years\obj\x86\Debug\_00.AgeAfter10Years.pdb

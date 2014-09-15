@@ -1,0 +1,5 @@
+C:\SoftUni\0. C# baisics_03.2014\02. Примитини типове данни и променливи\02. Primitive-Data-Types-and-Variables-Homework\10. ExchangeVariableValues\bin\Debug\_10.ExchangeVariableValues.exe
+C:\SoftUni\0. C# baisics_03.2014\02. Примитини типове данни и променливи\02. Primitive-Data-Types-and-Variables-Homework\10. ExchangeVariableValues\bin\Debug\_10.ExchangeVariableValues.pdb
+C:\SoftUni\0. C# baisics_03.2014\02. Примитини типове данни и променливи\02. Primitive-Data-Types-and-Variables-Homework\10. ExchangeVariableValues\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C# baisics_03.2014\02. Примитини типове данни и променливи\02. Primitive-Data-Types-and-Variables-Homework\10. ExchangeVariableValues\obj\x86\Debug\_10.ExchangeVariableValues.exe
+C:\SoftUni\0. C# baisics_03.2014\02. Примитини типове данни и променливи\02. Primitive-Data-Types-and-Variables-Homework\10. ExchangeVariableValues\obj\x86\Debug\_10.ExchangeVariableValues.pdb

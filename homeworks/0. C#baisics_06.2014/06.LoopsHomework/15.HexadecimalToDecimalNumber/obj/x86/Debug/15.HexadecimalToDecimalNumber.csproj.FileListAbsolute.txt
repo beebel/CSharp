@@ -1,0 +1,5 @@
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\15.HexadecimalToDecimalNumber\bin\Debug\15.HexadecimalToDecimalNumber.exe
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\15.HexadecimalToDecimalNumber\bin\Debug\15.HexadecimalToDecimalNumber.pdb
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\15.HexadecimalToDecimalNumber\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\15.HexadecimalToDecimalNumber\obj\x86\Debug\15.HexadecimalToDecimalNumber.exe
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\15.HexadecimalToDecimalNumber\obj\x86\Debug\15.HexadecimalToDecimalNumber.pdb

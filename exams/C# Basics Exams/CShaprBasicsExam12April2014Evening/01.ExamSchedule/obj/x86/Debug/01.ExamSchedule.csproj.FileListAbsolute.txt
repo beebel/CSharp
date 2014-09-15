@@ -1,0 +1,5 @@
+C:\SoftUni\C# Basics Exams\CShaprBasicsExam12April2014Evening\01.ExamSchedule\bin\Debug\01.ExamSchedule.exe
+C:\SoftUni\C# Basics Exams\CShaprBasicsExam12April2014Evening\01.ExamSchedule\bin\Debug\01.ExamSchedule.pdb
+C:\SoftUni\C# Basics Exams\CShaprBasicsExam12April2014Evening\01.ExamSchedule\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\C# Basics Exams\CShaprBasicsExam12April2014Evening\01.ExamSchedule\obj\x86\Debug\01.ExamSchedule.exe
+C:\SoftUni\C# Basics Exams\CShaprBasicsExam12April2014Evening\01.ExamSchedule\obj\x86\Debug\01.ExamSchedule.pdb

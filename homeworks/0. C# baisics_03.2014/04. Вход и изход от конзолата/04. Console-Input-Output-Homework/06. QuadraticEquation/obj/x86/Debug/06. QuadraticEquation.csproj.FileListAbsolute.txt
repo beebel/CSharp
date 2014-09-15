@@ -1,0 +1,5 @@
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\06. QuadraticEquation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.exe
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.pdb
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\06. QuadraticEquation\obj\x86\Debug\_06.QuadraticEquation.exe
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\06. QuadraticEquation\obj\x86\Debug\_06.QuadraticEquation.pdb

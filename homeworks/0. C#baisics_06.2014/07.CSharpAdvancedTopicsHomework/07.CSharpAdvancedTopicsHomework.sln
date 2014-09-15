@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.FibonacciNumbers", "01.FibonacciNumbers\01.FibonacciNumbers.csproj", "{678C6560-4226-4E9C-9679-900D3F62F1DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.PrimeChecker", "02.PrimeChecker\02.PrimeChecker.csproj", "{BBC6AE1B-45CF-4BC3-BE11-793B1E99C4D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.PrimesInGivenRange", "03.PrimesInGivenRange\03.PrimesInGivenRange.csproj", "{46A32EDC-C71C-47E1-B474-F5105E38A3F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{678C6560-4226-4E9C-9679-900D3F62F1DF}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{678C6560-4226-4E9C-9679-900D3F62F1DF}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{678C6560-4226-4E9C-9679-900D3F62F1DF}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{678C6560-4226-4E9C-9679-900D3F62F1DF}.Debug|x86.ActiveCfg = Debug|x86
+		{678C6560-4226-4E9C-9679-900D3F62F1DF}.Debug|x86.Build.0 = Debug|x86
+		{678C6560-4226-4E9C-9679-900D3F62F1DF}.Release|Any CPU.ActiveCfg = Release|x86
+		{678C6560-4226-4E9C-9679-900D3F62F1DF}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{678C6560-4226-4E9C-9679-900D3F62F1DF}.Release|Mixed Platforms.Build.0 = Release|x86
+		{678C6560-4226-4E9C-9679-900D3F62F1DF}.Release|x86.ActiveCfg = Release|x86
+		{678C6560-4226-4E9C-9679-900D3F62F1DF}.Release|x86.Build.0 = Release|x86
+		{BBC6AE1B-45CF-4BC3-BE11-793B1E99C4D3}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{BBC6AE1B-45CF-4BC3-BE11-793B1E99C4D3}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{BBC6AE1B-45CF-4BC3-BE11-793B1E99C4D3}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{BBC6AE1B-45CF-4BC3-BE11-793B1E99C4D3}.Debug|x86.ActiveCfg = Debug|x86
+		{BBC6AE1B-45CF-4BC3-BE11-793B1E99C4D3}.Debug|x86.Build.0 = Debug|x86
+		{BBC6AE1B-45CF-4BC3-BE11-793B1E99C4D3}.Release|Any CPU.ActiveCfg = Release|x86
+		{BBC6AE1B-45CF-4BC3-BE11-793B1E99C4D3}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{BBC6AE1B-45CF-4BC3-BE11-793B1E99C4D3}.Release|Mixed Platforms.Build.0 = Release|x86
+		{BBC6AE1B-45CF-4BC3-BE11-793B1E99C4D3}.Release|x86.ActiveCfg = Release|x86
+		{BBC6AE1B-45CF-4BC3-BE11-793B1E99C4D3}.Release|x86.Build.0 = Release|x86
+		{46A32EDC-C71C-47E1-B474-F5105E38A3F5}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{46A32EDC-C71C-47E1-B474-F5105E38A3F5}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{46A32EDC-C71C-47E1-B474-F5105E38A3F5}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{46A32EDC-C71C-47E1-B474-F5105E38A3F5}.Debug|x86.ActiveCfg = Debug|x86
+		{46A32EDC-C71C-47E1-B474-F5105E38A3F5}.Debug|x86.Build.0 = Debug|x86
+		{46A32EDC-C71C-47E1-B474-F5105E38A3F5}.Release|Any CPU.ActiveCfg = Release|x86
+		{46A32EDC-C71C-47E1-B474-F5105E38A3F5}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{46A32EDC-C71C-47E1-B474-F5105E38A3F5}.Release|Mixed Platforms.Build.0 = Release|x86
+		{46A32EDC-C71C-47E1-B474-F5105E38A3F5}.Release|x86.ActiveCfg = Release|x86
+		{46A32EDC-C71C-47E1-B474-F5105E38A3F5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

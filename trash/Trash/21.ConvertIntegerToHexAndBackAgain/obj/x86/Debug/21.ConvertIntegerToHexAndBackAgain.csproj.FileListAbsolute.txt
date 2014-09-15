@@ -1,0 +1,5 @@
+C:\SoftUni\Trash\Trash\21.ConvertIntegerToHexAndBackAgain\bin\Debug\21.ConvertIntegerToHexAndBackAgain.exe
+C:\SoftUni\Trash\Trash\21.ConvertIntegerToHexAndBackAgain\bin\Debug\21.ConvertIntegerToHexAndBackAgain.pdb
+C:\SoftUni\Trash\Trash\21.ConvertIntegerToHexAndBackAgain\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\Trash\Trash\21.ConvertIntegerToHexAndBackAgain\obj\x86\Debug\21.ConvertIntegerToHexAndBackAgain.exe
+C:\SoftUni\Trash\Trash\21.ConvertIntegerToHexAndBackAgain\obj\x86\Debug\21.ConvertIntegerToHexAndBackAgain.pdb

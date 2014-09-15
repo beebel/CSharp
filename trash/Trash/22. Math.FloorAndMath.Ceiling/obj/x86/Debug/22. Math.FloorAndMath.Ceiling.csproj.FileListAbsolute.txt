@@ -1,0 +1,5 @@
+C:\SoftUni\Trash\Trash\22. Math.FloorAndMath.Ceiling\bin\Debug\_22.Math.FloorAndMath.Ceiling.exe
+C:\SoftUni\Trash\Trash\22. Math.FloorAndMath.Ceiling\bin\Debug\_22.Math.FloorAndMath.Ceiling.pdb
+C:\SoftUni\Trash\Trash\22. Math.FloorAndMath.Ceiling\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\Trash\Trash\22. Math.FloorAndMath.Ceiling\obj\x86\Debug\_22.Math.FloorAndMath.Ceiling.exe
+C:\SoftUni\Trash\Trash\22. Math.FloorAndMath.Ceiling\obj\x86\Debug\_22.Math.FloorAndMath.Ceiling.pdb

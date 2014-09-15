@@ -1,0 +1,5 @@
+C:\SoftUni\0. C#baisics_06.2014\02. Примитини типове данни и променливи\09. Exchange Variable Values\bin\Debug\_09.Exchange_Variable_Values.exe
+C:\SoftUni\0. C#baisics_06.2014\02. Примитини типове данни и променливи\09. Exchange Variable Values\bin\Debug\_09.Exchange_Variable_Values.pdb
+C:\SoftUni\0. C#baisics_06.2014\02. Примитини типове данни и променливи\09. Exchange Variable Values\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C#baisics_06.2014\02. Примитини типове данни и променливи\09. Exchange Variable Values\obj\x86\Debug\_09.Exchange_Variable_Values.exe
+C:\SoftUni\0. C#baisics_06.2014\02. Примитини типове данни и променливи\09. Exchange Variable Values\obj\x86\Debug\_09.Exchange_Variable_Values.pdb

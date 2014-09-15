@@ -1,0 +1,5 @@
+C:\SoftUni\Trash\Trash\09. Console.ReadKey()\bin\Debug\_09.Console.ReadKey__.exe
+C:\SoftUni\Trash\Trash\09. Console.ReadKey()\bin\Debug\_09.Console.ReadKey__.pdb
+C:\SoftUni\Trash\Trash\09. Console.ReadKey()\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\Trash\Trash\09. Console.ReadKey()\obj\x86\Debug\_09.Console.ReadKey__.exe
+C:\SoftUni\Trash\Trash\09. Console.ReadKey()\obj\x86\Debug\_09.Console.ReadKey__.pdb

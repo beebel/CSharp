@@ -1,0 +1,5 @@
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.pdb
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\10.OddAndEvenProduct\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\10.OddAndEvenProduct\obj\x86\Debug\10.OddAndEvenProduct.exe
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\10.OddAndEvenProduct\obj\x86\Debug\10.OddAndEvenProduct.pdb

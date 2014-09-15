@@ -1,0 +1,5 @@
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\12.RandomizeTheNumbers1ToN\bin\Debug\12.RandomizeTheNumbers1ToN.exe
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\12.RandomizeTheNumbers1ToN\bin\Debug\12.RandomizeTheNumbers1ToN.pdb
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\12.RandomizeTheNumbers1ToN\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\12.RandomizeTheNumbers1ToN\obj\x86\Debug\12.RandomizeTheNumbers1ToN.exe
+C:\SoftUni\0. C#baisics_06.2014\06.LoopsHomework\12.RandomizeTheNumbers1ToN\obj\x86\Debug\12.RandomizeTheNumbers1ToN.pdb

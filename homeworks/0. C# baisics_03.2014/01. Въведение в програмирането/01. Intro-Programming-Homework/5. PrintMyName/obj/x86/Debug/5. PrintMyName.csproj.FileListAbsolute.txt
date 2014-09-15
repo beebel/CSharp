@@ -1,0 +1,7 @@
+C:\Documents and Settings\h\Desktop\SoftUni\C# baisics.0_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\5. PrintMyName\bin\Debug\_5.PrintMyName.exe
+C:\Documents and Settings\h\Desktop\SoftUni\C# baisics.0_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\5. PrintMyName\bin\Debug\_5.PrintMyName.pdb
+C:\Documents and Settings\h\Desktop\SoftUni\C# baisics.0_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\5. PrintMyName\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\h\Desktop\SoftUni\C# baisics.0_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\5. PrintMyName\obj\x86\Debug\_5.PrintMyName.exe
+C:\Documents and Settings\h\Desktop\SoftUni\C# baisics.0_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\5. PrintMyName\obj\x86\Debug\_5.PrintMyName.pdb
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\5. PrintMyName\obj\x86\Debug\_5.PrintMyName.exe
+C:\Documents and Settings\h\Desktop\SoftUni\0. C# baisics_03.2014\1. Въведение в програмирането\Intro-Programming-Homework\5. PrintMyName\obj\x86\Debug\_5.PrintMyName.pdb

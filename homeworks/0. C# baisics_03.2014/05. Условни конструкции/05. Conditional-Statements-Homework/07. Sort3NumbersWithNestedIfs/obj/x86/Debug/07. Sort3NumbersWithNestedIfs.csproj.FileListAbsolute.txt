@@ -1,0 +1,5 @@
+C:\SoftUni\0. C# baisics_03.2014\05. Условни конструкции\05. Conditional-Statements-Homework\07. Sort3NumbersWithNestedIfs\bin\Debug\_07.Sort3NumbersWithNestedIfs.exe
+C:\SoftUni\0. C# baisics_03.2014\05. Условни конструкции\05. Conditional-Statements-Homework\07. Sort3NumbersWithNestedIfs\bin\Debug\_07.Sort3NumbersWithNestedIfs.pdb
+C:\SoftUni\0. C# baisics_03.2014\05. Условни конструкции\05. Conditional-Statements-Homework\07. Sort3NumbersWithNestedIfs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C# baisics_03.2014\05. Условни конструкции\05. Conditional-Statements-Homework\07. Sort3NumbersWithNestedIfs\obj\x86\Debug\_07.Sort3NumbersWithNestedIfs.exe
+C:\SoftUni\0. C# baisics_03.2014\05. Условни конструкции\05. Conditional-Statements-Homework\07. Sort3NumbersWithNestedIfs\obj\x86\Debug\_07.Sort3NumbersWithNestedIfs.pdb

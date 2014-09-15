@@ -1,0 +1,5 @@
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\08. NumbersFrom1ToN\bin\Debug\_08.NumbersFrom1ToN.exe
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\08. NumbersFrom1ToN\bin\Debug\_08.NumbersFrom1ToN.pdb
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\08. NumbersFrom1ToN\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\08. NumbersFrom1ToN\obj\x86\Debug\_08.NumbersFrom1ToN.exe
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\08. NumbersFrom1ToN\obj\x86\Debug\_08.NumbersFrom1ToN.pdb

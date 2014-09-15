@@ -1,0 +1,5 @@
+C:\SoftUni\0. C# baisics_03.2014\05. Условни конструкции\05. Conditional-Statements-Homework\05. TheBiggestOf3Numbers\bin\Debug\_05.TheBiggestOf3Numbers.exe
+C:\SoftUni\0. C# baisics_03.2014\05. Условни конструкции\05. Conditional-Statements-Homework\05. TheBiggestOf3Numbers\bin\Debug\_05.TheBiggestOf3Numbers.pdb
+C:\SoftUni\0. C# baisics_03.2014\05. Условни конструкции\05. Conditional-Statements-Homework\05. TheBiggestOf3Numbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C# baisics_03.2014\05. Условни конструкции\05. Conditional-Statements-Homework\05. TheBiggestOf3Numbers\obj\x86\Debug\_05.TheBiggestOf3Numbers.exe
+C:\SoftUni\0. C# baisics_03.2014\05. Условни конструкции\05. Conditional-Statements-Homework\05. TheBiggestOf3Numbers\obj\x86\Debug\_05.TheBiggestOf3Numbers.pdb

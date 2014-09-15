@@ -1,0 +1,5 @@
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\10. FibonacciNumbers\bin\Debug\_10.FibonacciNumbers.exe
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\10. FibonacciNumbers\bin\Debug\_10.FibonacciNumbers.pdb
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\10. FibonacciNumbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\10. FibonacciNumbers\obj\x86\Debug\_10.FibonacciNumbers.exe
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\10. FibonacciNumbers\obj\x86\Debug\_10.FibonacciNumbers.pdb

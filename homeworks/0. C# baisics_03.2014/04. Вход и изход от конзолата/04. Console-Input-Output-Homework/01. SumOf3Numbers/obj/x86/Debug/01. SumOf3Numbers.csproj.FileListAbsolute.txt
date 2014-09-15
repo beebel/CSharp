@@ -1,0 +1,5 @@
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\01. SumOf3Numbers\bin\Debug\_01.SumOf3Numbers.exe
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\01. SumOf3Numbers\bin\Debug\_01.SumOf3Numbers.pdb
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\01. SumOf3Numbers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\01. SumOf3Numbers\obj\x86\Debug\_01.SumOf3Numbers.exe
+C:\SoftUni\0. C# baisics_03.2014\04. Вход и изход от конзолата\04. Console-Input-Output-Homework\01. SumOf3Numbers\obj\x86\Debug\_01.SumOf3Numbers.pdb

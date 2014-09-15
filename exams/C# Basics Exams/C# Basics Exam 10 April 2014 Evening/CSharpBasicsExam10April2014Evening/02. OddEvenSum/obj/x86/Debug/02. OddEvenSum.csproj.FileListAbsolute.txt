@@ -1,0 +1,5 @@
+C:\SoftUni\C# Basics Exams\C# Basics Exam 10 April 2014 Evening\CSharpBasicsExam10April2014Evening\02. OddEvenSum\bin\Debug\_02.OddEvenSum.exe
+C:\SoftUni\C# Basics Exams\C# Basics Exam 10 April 2014 Evening\CSharpBasicsExam10April2014Evening\02. OddEvenSum\bin\Debug\_02.OddEvenSum.pdb
+C:\SoftUni\C# Basics Exams\C# Basics Exam 10 April 2014 Evening\CSharpBasicsExam10April2014Evening\02. OddEvenSum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\C# Basics Exams\C# Basics Exam 10 April 2014 Evening\CSharpBasicsExam10April2014Evening\02. OddEvenSum\obj\x86\Debug\_02.OddEvenSum.exe
+C:\SoftUni\C# Basics Exams\C# Basics Exam 10 April 2014 Evening\CSharpBasicsExam10April2014Evening\02. OddEvenSum\obj\x86\Debug\_02.OddEvenSum.pdb

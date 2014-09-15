@@ -1,0 +1,5 @@
+C:\SoftUni\0. C#baisics_06.2014\02. Примитини типове данни и променливи\06. StringsAndObjects\bin\Debug\_06.StringsAndObjects.exe
+C:\SoftUni\0. C#baisics_06.2014\02. Примитини типове данни и променливи\06. StringsAndObjects\bin\Debug\_06.StringsAndObjects.pdb
+C:\SoftUni\0. C#baisics_06.2014\02. Примитини типове данни и променливи\06. StringsAndObjects\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\0. C#baisics_06.2014\02. Примитини типове данни и променливи\06. StringsAndObjects\obj\x86\Debug\_06.StringsAndObjects.exe
+C:\SoftUni\0. C#baisics_06.2014\02. Примитини типове данни и променливи\06. StringsAndObjects\obj\x86\Debug\_06.StringsAndObjects.pdb

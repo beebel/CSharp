@@ -1,0 +1,5 @@
+C:\SoftUni\C# Basics Exams\CSharpExam14April2014Evening\03.ProgrammerDNA\bin\Debug\03.ProgrammerDNA.exe
+C:\SoftUni\C# Basics Exams\CSharpExam14April2014Evening\03.ProgrammerDNA\bin\Debug\03.ProgrammerDNA.pdb
+C:\SoftUni\C# Basics Exams\CSharpExam14April2014Evening\03.ProgrammerDNA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SoftUni\C# Basics Exams\CSharpExam14April2014Evening\03.ProgrammerDNA\obj\x86\Debug\03.ProgrammerDNA.exe
+C:\SoftUni\C# Basics Exams\CSharpExam14April2014Evening\03.ProgrammerDNA\obj\x86\Debug\03.ProgrammerDNA.pdb
